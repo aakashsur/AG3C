@@ -1,0 +1,84 @@
+ARABDI	[c] : arab-D <==> rbl-D 	b2802	addition
+RBK_D1	[c] : atp + rbl-D --> adp + h + ru5p-D 	ECB_02649	addition
+DARBabcpp	arab-D[p] + atp[c] + h2o[c] --> adp[c] + arab-D[c] + h[c] + pi[c] 	(b1901 and b1900 and b4460)	addition
+DARBt2rpp	arab-D[p] + h[p] <==> arab-D[c] + h[c] 	b2841	addition
+DARBt3ipp	arab-D[c] + h[p] --> arab-D[p] + h[c] 	b1528	addition
+DARBtex	arab-D[e] <==> arab-D[p] 	(b0241 or b0929 or b1377 or b2215)	addition
+4H3M	[c] : 4hpa + o2 + nadh + h <==> 34dhpl + nad + h2o 	ECB_04222	addition
+34DH23OR	[c] : 34dhpl + o2 <==> 2h5cmmsa 	ECB_04228	addition
+5C2HMSO	[c] : 2h5cmmsa + nad + h2o <==> 5c2hm + nadh + h 	ECB_04229	addition
+5C2HMDI	[c] : 5c2hm <==> 5c2o3e 	ECB_04227	addition
+5O3E125TC	[c] : 5c2o3e <==> 2hh24d + co2 	ECB_04230	addition
+HPAG	[c] : 2hh24d <==> 2o3e 	ECB_04230	addition
+2OH3E17DH	[c] : 2o3e + h2o <==> 24dhh2ed 	ECB_04226	addition
+HPAH	[c] : 2hh24d + h2o <==> 24dhh2ed 	ECB_04226	addition
+HPAI	[c] : 24dhh2ed <==> sucsal + pyr 	ECB_04225	addition
+HPAP	4hpa[p] + h[p] <==> 4hpa[c] + h[c] 	ECB_04224	addition
+HPAtex	4hpa[e] <==> 4hpa[p] 	(b0241 or b0929 or b1377 or b2215)	addition
+ACGALptspp	acgal[p] + pep[c] --> acgal6p[c] + pyr[c] 	ECB_02998,ECB_02999,ECB_03000,ECB_03001,ECB_03002	addition
+ACGAL6PI	[c] : acgal6p --> tag6p-D 	b3141	addition
+GLXtmp	glx[e] --> glx[c]	Unknown	addition
+URATEtmp	urate[e] --> urate[c]	Unknown	addition
+NACGLUtmp	acglu[e] --> acglu[c]	Unknown	addition
+DMAN1Ptmp	man1p[e] --> man1p[c]	Unknown	addition
+EX_arab-D(e)	[e] : arab-D <==>	Unknown	addition
+EX_4hpa(e)	[e] : 4hpa <==>	Unknown	addition
+EX_glx(e)	[e] : glx <==>	Unknown	addition
+EX_urate(e)	[e] : urate <==>	Unknown	addition
+EX_man1p(e)	[e] : man1p <==>	Unknown	addition
+EX_acglu(e)	[e] : acglu <==>	Unknown	addition
+AAMYL	[c] : 14glucan --> malthx 	b1927	deletion
+ACGAMK	[c] : acgam + atp --> acgam6p + adp + h 	b1119	deletion
+ADNt2rpp	adn[p] + h[p] <==> adn[c] + h[c] 	b2406	deletion
+ASPabcpp	asp-L[p] + atp[c] + h2o[c] --> adp[c] + asp-L[c] + h[c] + pi[c] 	(b0655 and b0654 and b0653 and b0652)	deletion
+CYSDDS	[c] : cys-D + h2o --> h2s + nh4 + pyr 	b1919	deletion
+CYTDt2rpp	cytd[p] + h[p] <==> cytd[c] + h[c] 	b2406	deletion
+FA100ACPHi	[c] : dcaACP + h2o --> ACP + dca + h 	b0404	deletion
+FA120ACPHi	[c] : ddcaACP + h2o --> ACP + ddca + h 	b0404	deletion
+FA140ACPHi	[c] : h2o + myrsACP --> ACP + h + ttdca 	b0404	deletion
+FA141ACPHi	[c] : h2o + tdeACP --> ACP + h + ttdcea 	b0404	deletion
+FA160ACPHi	[c] : h2o + palmACP --> ACP + h + hdca 	b0404	deletion
+FA161ACPHi	[c] : h2o + hdeACP --> ACP + h + hdcea 	b0404	deletion
+FA80ACPHi	[c] : h2o + ocACP --> ACP + h + octa 	b0404	deletion
+FUCtpp	fuc-L[p] + h[p] <==> fuc-L[c] + h[c] 	b2801	deletion
+GLUabcpp	atp[c] + glu-L[p] + h2o[c] --> adp[c] + glu-L[c] + h[c] + pi[c] 	(b0655 and b0654 and b0653 and b0652)	deletion
+HCYSMT	[c] : amet + hcys-L --> ahcys + h + met-L 	b0261	deletion
+HCYSMT2	[c] : hcys-L + mmet --> h + (2) met-L 	b0261	deletion
+INSt2rpp	h[p] + ins[p] <==> h[c] + ins[c] 	b2406	deletion
+MMETt2pp	h[p] + mmet[p] --> h[c] + mmet[c] 	b0260	deletion
+O16AP1pp	[p] : (2) o16aund --> h + o16a2und + udcpdp 	(b2035 and b2027)	deletion
+O16AP2pp	[p] : o16a2und + o16aund --> h + o16a3und + udcpdp 	(b2035 and b2027)	deletion
+O16AP3pp	[p] : o16a3und + o16aund --> h + o16a4und + udcpdp 	(b2035 and b2027)	deletion
+O16AT	[c] : accoa + ragund --> aragund + coa 	b2033	deletion
+O16AUNDtpp	o16aund[c] --> o16aund[p] 	b2037	deletion
+O16GALFT	[c] : garagund + udpgalfur --> gfgaragund + h + udp 	b2034	deletion
+O16GLCT1	[c] : aragund + udpg --> garagund + h + udp 	b2032	deletion
+PACCOAL	[c] : atp + coa + pac --> amp + phaccoa + ppi 	b1398	deletion
+PUNP7	[c] : pi + xtsn <==> r1p + xan 	b2407	deletion
+TDPDRE	[c] : dtdp4d6dg --> dtdp4d6dm 	b2038	deletion
+THMDt2rpp	h[p] + thymd[p] <==> h[c] + thymd[c] 	b2406	deletion
+UDPGALM	[c] : udpgal --> udpgalfur 	b2036	deletion
+URIt2rpp	h[p] + uri[p] <==> h[c] + uri[c] 	b2406	deletion
+XTSNt2rpp	h[p] + xtsn[p] <==> h[c] + xtsn[c] 	b2406	deletion
+XYLabcpp	atp[c] + h2o[c] + xyl-D[p] --> adp[c] + h[c] + pi[c] + xyl-D[c] 	(b3566 and b3567 and b3568)	deletion
+ARAI	[c] : arab-L <==> rbl-L 	b0062	deletion
+ECA4OALpp	[p] : colipa + eca4und --> eca4colipa + h + udcpdp 	b3622	deletion
+GALT1	[c] : gicolipa + udpg --> gagicolipa + h + udp 	b3628	deletion
+GLCTR2	[c] : gagicolipa + udpg --> ggagicolipa + h + udp 	b3627	deletion
+GLCTR3	[c] : ggagicolipa + udpg --> gggagicolipa + h + udp 	b3626	deletion
+HEPK2	[c] : atp + hphhlipa --> adp + h + phphhlipa 	b3625	deletion
+HEPT4	[c] : adphep-LD + gggagicolipa --> adp + colipa + h 	b3623	deletion
+MOAT3C	[c] : ckdo + phphhlipa --> cmp + h + kphphhlipa 	b3624	deletion
+RHAT1	[c] : dtdprmn + kphphhlipa --> dtdp + h + icolipa 	b3629	deletion
+ASPt2_2pp	asp-L[p] + (2) h[p] --> asp-L[c] + (2) h[c] 	b3528	turned off
+FUMt2_2pp	fum[p] + (2) h[p] --> fum[c] + (2) h[c] 	b3528	turned off
+MALDt2_2pp	(2) h[p] + mal-D[p] --> (2) h[c] + mal-D[c] 	b3528	turned off
+MALt2_2pp	(2) h[p] + mal-L[p] --> (2) h[c] + mal-L[c] 	b3528	turned off
+OROTt2_2pp	(2) h[p] + orot[p] --> (2) h[c] + orot[c] 	b3528	turned off
+SUCCt2_2pp	(2) h[p] + succ[p] --> (2) h[c] + succ[c] 	b3528	turned off
+GLTPD	[c] : galt1p + nad <==> h + nadh + tag6p-D 	b2091	turned off
+GALTptspp	galt[p] + pep[c] --> galt1p[c] + pyr[c] 	(b2094 and b2093 and b2092 and b2415 and b2416)	turned off
+EX_succ(e)	[e] : sucr <==>	Unknown	turned off
+EX_asp_L(e)	[e] : asp-L <==>	Unknown	turned off
+EX_mal_D(e)	[e] : mal-D <==>	Unknown	turned off
+EX_mal_L(e)	[e] : mal-L <==>	Unknown	turned off
