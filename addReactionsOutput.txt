@@ -1,0 +1,16 @@
+rbl_DASH_D 	D-ribulose	C5H10O5
+arab_DASH_D 	D-arabinose	C5H10O5
+4hpa 	4-hydroxyphenylacetate	C8H8O3
+34dhpl 	3,4-dihydroxyphenylacetate	C8H8O4
+2h5cmmsa 	2-hydroxy-5-carboxymethylmuconate semialdehyde	C8H8O6
+5c2hm 	5-carboxymethyl-2-hydroxymuconate	C8H8O7
+5c2o3e 	5-carboxy-2-oxohept-3-enedioate	C8H8O7
+2hh24d 	2-hydroxyhepta-2,4-dienedioate	C7H8O5
+2o3e 	2-oxohept-3-enedioate	C7H8O5
+24dhh2ed 	2,4-dihydroxyhept-2-enedioate	C7H10O6
+acgal6p 	N-acetyl-D-galactosamine 6-phosphate	C8H14NO9P
+urate	Urate	C5H4N4O3
+man1p	D-Mannose 1-phosphate	C6H11O9P
+acglu	N-Acetyl-L-glutamate	C7H9NO5
+glx	Glyoxylate	C2H1O3
+
