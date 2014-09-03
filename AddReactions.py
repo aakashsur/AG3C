@@ -12,12 +12,11 @@ Here, I use the iAF1260 SBML model for E. coli MG1655 to develop
 a model for E. coli REL.
 """
 
-from cobra.io.sbml import create_cobra_model_from_sbml_file
+from cobra.io import *
 from cobra.flux_analysis import *
-from cobra.io.sbml import write_cobra_model_to_sbml_file
 import re
 
-model = create_cobra_model_from_sbml_file("MG1655.xml", print_time=True)
+model = read_sbml_model("MG1655.xml")
 
 # Calculate Wild Type Flux Network
 model.optimize()
@@ -78,6 +77,7 @@ print "Done turning off reactions."
 
 model.optimize()
 print "Growth Rate: %.15f"%(model.solution.f)
+
 
 print "Adding reactions."
 print '%i reactions in original model' % len(model.reactions)
@@ -207,17 +207,13 @@ for rxn in addReactions:
                 print "Please input data for product %s" % (molecule)
 
     # Final step, add all the reaction object to the SBML model.                
-    model.add_reactions(reaction)
+    model.add_reaction(reaction)
     
 print '%i reaction in updated model' % len(model.reactions)
 
 model.optimize()
 print "Growth Rate: %.15f"%(model.solution.f)
 
-# The output SBML file. 
-sbml_out_file = 'REL.xml'
-sbml_level = 2
-sbml_version = 1
-
-write_cobra_model_to_sbml_file(model, sbml_out_file, sbml_level, sbml_version, print_time=True)
+print "writing"
+write_sbml_model(model, "REL1.xml")
 
