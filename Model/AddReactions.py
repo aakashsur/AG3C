@@ -215,7 +215,7 @@ model.optimize()
 print "Growth Rate: %.15f"%(model.solution.f)
 
 print "writing"
-write_sbml_model(model, "REL1.xml")
+write_sbml_model(model, "REL.xml")
 
-model = read_sbml_model("REL1.xml")
+model = read_sbml_model("REL.xml")
 
