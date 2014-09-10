@@ -1,0 +1,5146 @@
+(dp1
+S'b2690'
+p2
+(lp3
+(lp4
+S'yqaB'
+p5
+aa(lp6
+S'fructose-1-P and 6-phosphogluconate phosphatase'
+p7
+aS'predicted hydrolase'
+p8
+aS'fructose-1-phosphatase'
+p9
+aa(lp10
+asS'b3821'
+p11
+(lp12
+(lp13
+S'pldA'
+p14
+aa(lp15
+S'outer membrane phospholipase A'
+p16
+aS'phospholipase A1 precursor'
+p17
+aa(lp18
+S'3.1.1.32'
+p19
+aasS'b1638'
+p20
+(lp21
+(lp22
+S'pdxH'
+p23
+aa(lp24
+S"pyridoxine 5'-phosphate oxidase"
+p25
+aS"pyridoxamine 5'-phosphate oxidase"
+p26
+aa(lp27
+S'1.4.3.5'
+p28
+aasS'b2926'
+p29
+(lp30
+(lp31
+S'pgk'
+p32
+aa(lp33
+S'phosphoglycerate kinase'
+p34
+aa(lp35
+S'2.7.2.3'
+p36
+aasS'b3825'
+p37
+(lp38
+(lp39
+S'pldB'
+p40
+aa(lp41
+S'lysophospholipase L(2)'
+p42
+aS'lysophospholipase L2'
+p43
+aa(lp44
+S'3.1.1.5'
+p45
+aasS'b2065'
+p46
+(lp47
+(lp48
+S'dcd'
+p49
+aS'dus'
+p50
+aS'paxA'
+p51
+aa(lp52
+S'deoxycytidine triphosphate deaminase'
+p53
+aS"2'-deoxycytidine 5'-triphosphate deaminase"
+p54
+aa(lp55
+S'3.5.4.13'
+p56
+aasS'b2697'
+p57
+(lp58
+(lp59
+S'lovB'
+p60
+aS'alaS'
+p61
+aS'ala-act'
+p62
+aS'act'
+p63
+aa(lp64
+S'alanyl-tRNA synthetase'
+p65
+aa(lp66
+S'6.1.1.7'
+p67
+aasS'b3639'
+p68
+(lp69
+(lp70
+S'dfp'
+p71
+aS'coaBC'
+p72
+aa(lp73
+S"fused 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase, FMN-binding"
+p74
+aS'Dfp'
+p75
+aa(lp76
+S'4.1.1.36'
+p77
+aasS'b3475'
+p78
+(lp79
+(lp80
+S'acpT'
+p81
+aS'yhhU'
+p82
+aa(lp83
+S'holo-(acyl carrier protein) synthase 2'
+p84
+aS"4'-phosphopantetheinyl transferase"
+p85
+aa(lp86
+S'2.7.8.-'
+p87
+aasS'b3197'
+p88
+(lp89
+(lp90
+S'kdsD'
+p91
+aS'yrbH'
+p92
+aa(lp93
+S'arabinose 5-phosphate isomerase'
+p94
+aS'D-arabinose 5-phosphate isomerase'
+p95
+aa(lp96
+S'5.3.1.13'
+p97
+aasS'b2803'
+p98
+(lp99
+(lp100
+S'fucK'
+p101
+aa(lp102
+S'L-fuculokinase'
+p103
+aa(lp104
+S'2.7.1.51'
+p105
+aasS'b2744'
+p106
+(lp107
+(lp108
+S'umpG'
+p109
+aS'surE'
+p110
+aS'ygbC'
+p111
+aa(lp112
+S"broad specificity 5'(3')-nucleotidase and polyphosphatase"
+p113
+aS"5'/3'-nucleotidase SurE"
+p114
+aa(lp115
+asS'b2514'
+p116
+(lp117
+(lp118
+S'hisS'
+p119
+aa(lp120
+S'histidyl tRNA synthetase'
+p121
+aS'histidyl-tRNA synthetase'
+p122
+aa(lp123
+S'6.1.1.21'
+p124
+aasS'b2518'
+p125
+(lp126
+(lp127
+S'ndk'
+p128
+aa(lp129
+S'nucleoside diphosphate kinase'
+p130
+aS"multifunctional nucleoside diphosphate kinase and apyrimidinic endonuclease and 3'-phosphodiesterase"
+p131
+aa(lp132
+S'2.7.4.6'
+p133
+aasS'b4384'
+p134
+(lp135
+(lp136
+S'pup'
+p137
+aS'deoD'
+p138
+aa(lp139
+S'Purine nucleoside phosphorylase'
+p140
+aS'purine-nucleoside phosphorylase'
+p141
+aa(lp142
+S'2.4.2.1'
+p143
+aasS'b0323'
+p144
+(lp145
+(lp146
+S'yahI'
+p147
+aa(lp148
+S'predicted carbamate kinase-like protein'
+p149
+aS'carbamate kinase-like protein'
+p150
+aa(lp151
+asS'b2585'
+p152
+(lp153
+(lp154
+S'pss'
+p155
+aS'pssA'
+p156
+aa(lp157
+S'phosphatidylserine synthase'
+p158
+aS'CDP-diacylglycerol--serine O-phosphatidyltransferase'
+p159
+aS'phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)'
+p160
+aa(lp161
+S'2.7.8.8'
+p162
+aasS'b1732'
+p163
+(lp164
+(lp165
+S'katE'
+p166
+aa(lp167
+S'hydroperoxidase HPII(III)'
+p168
+aS'catalase HPII, heme d-containing'
+p169
+aS'hydroperoxidase II'
+p170
+aa(lp171
+S'1.11.1.6'
+p172
+aasS'b3198'
+p173
+(lp174
+(lp175
+S'kdsC'
+p176
+aS'yrbJ'
+p177
+aS'yrbI'
+p178
+aa(lp179
+S'3-deoxy-D-manno-octulosonate 8-phosphate phosphatase'
+p180
+aS'3-deoxy-D-manno-octulosonate 8-phosphatephosphatase'
+p181
+aa(lp182
+S'3.1.3.45'
+p183
+aasS'b0243'
+p184
+(lp185
+(lp186
+S'pro'
+p187
+aS'proA'
+p188
+aa(lp189
+S'gamma-glutamylphosphate reductase'
+p190
+aS'gamma-glutamyl phosphate reductase'
+p191
+aa(lp192
+S'1.2.1.41'
+p193
+aasS'b4260'
+p194
+(lp195
+(lp196
+S'pepA'
+p197
+aS'xerB'
+p198
+aS'carP'
+p199
+aa(lp200
+S'aminopeptidase A, a cyteinylglycinase'
+p201
+aS'cytosol aminopeptidase'
+p202
+aS'multifunctional aminopeptidase A: a cyteinylglycinase, transcription regulator and site-specific recombination factor'
+p203
+aa(lp204
+S'3.4.11.1'
+p205
+aasS'b4266'
+p206
+(lp207
+(lp208
+S'idnO'
+p209
+aS'yjgU'
+p210
+aa(lp211
+S'5-keto-D-gluconate-5-reductase'
+p212
+aS'gluconate 5-dehydrogenase'
+p213
+aa(lp214
+S'1.1.1.69'
+p215
+aasS'b0002'
+p216
+(lp217
+(lp218
+S'Hs'
+p219
+aS'thrD'
+p220
+aS'thrA1'
+p221
+aS'thrA2'
+p222
+aS'thrA'
+p223
+aa(lp224
+S'bifunctional aspartokinase I/homoserine dehydrogenase I'
+p225
+aS'Bifunctional aspartokinase/homoserine dehydrogenase 1'
+p226
+aS'fused aspartokinase I and homoserine dehydrogenase I'
+p227
+aa(lp228
+S'1.1.1.3'
+p229
+aasS'b3732'
+p230
+(lp231
+(lp232
+S'uncD'
+p233
+aS'papB'
+p234
+aS'atpD'
+p235
+aa(lp236
+S'F1 sector of membrane-bound ATP synthase, beta subunit'
+p237
+aS'ATP synthase subunit beta'
+p238
+aa(lp239
+S'3.6.3.14'
+p240
+aasS'b3648'
+p241
+(lp242
+(lp243
+S'gmk'
+p244
+aS'spoR'
+p245
+aa(lp246
+S'guanylate kinase'
+p247
+aa(lp248
+S'2.7.4.8'
+p249
+aasS'b2925'
+p250
+(lp251
+(lp252
+S'fda'
+p253
+aS'ald'
+p254
+aS'fba'
+p255
+aS'fbaA'
+p256
+aa(lp257
+S'fructose-bisphosphate aldolase, class II'
+p258
+aS'fructose-bisphosphate aldolase'
+p259
+aa(lp260
+S'4.1.2.13'
+p261
+aasS'b3189'
+p262
+(lp263
+(lp264
+S'murA'
+p265
+aS'mrbA'
+p266
+aS'murZ'
+p267
+aa(lp268
+S'UDP-N-acetylglucosamine 1-carboxyvinyltransferase'
+p269
+aS'UDP-N-acetylglucosamine1-carboxyvinyltransferase'
+p270
+aa(lp271
+S'2.5.1.7'
+p272
+aasS'b2379'
+p273
+(lp274
+(lp275
+S'alaC'
+p276
+aS'yfdZ'
+p277
+aa(lp278
+S'aminotransferase'
+p279
+aS'prediected aminotransferase, PLP-dependent'
+p280
+aS'valine-pyruvate aminotransferase 3'
+p281
+aa(lp282
+asS'b2441'
+p283
+(lp284
+(lp285
+S'eutB'
+p286
+aa(lp287
+S'ethanolamine ammonia-lyase heavy chain'
+p288
+aS'ethanolamine ammonia-lyase, large subunit, heavy chain'
+p289
+aa(lp290
+S'4.3.1.7'
+p291
+aasS'b2440'
+p292
+(lp293
+(lp294
+S'eutC'
+p295
+aa(lp296
+S'ethanolamine ammonia-lyase small subunit'
+p297
+aS'ethanolamine ammonia-lyase, small subunit'
+p298
+aS'ethanolamine ammonia-lyase, small subunit (light chain)'
+p299
+aa(lp300
+g291
+aasS'b3736'
+p301
+(lp302
+(lp303
+S'uncF'
+p304
+aS'papF'
+p305
+aS'atpF'
+p306
+aa(lp307
+S'F0 sector of membrane-bound ATP synthase, subunit b'
+p308
+aS'ATP synthase subunit B'
+p309
+aa(lp310
+g240
+aasS'b3737'
+p311
+(lp312
+(lp313
+S'uncE'
+p314
+aS'papH'
+p315
+aS'atpE'
+p316
+aa(lp317
+S'F0 sector of membrane-bound ATP synthase, subunit c'
+p318
+aS'F0F1 ATP synthase subunit C'
+p319
+aa(lp320
+g240
+aasS'b3730'
+p321
+(lp322
+(lp323
+S'glmU'
+p324
+aS'yieA'
+p325
+aS'tms'
+p326
+aa(lp327
+S'bifunctional protein GlmU'
+p328
+aS'fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase'
+p329
+aa(lp330
+S'2.7.7.23'
+p331
+aasS'b3731'
+p332
+(lp333
+(lp334
+S'atpC'
+p335
+aS'papG'
+p336
+aS'uncC'
+p337
+aa(lp338
+S'ATP synthase subunit epsilon'
+p339
+aS'F1 sector of membrane-bound ATP synthase, epsilon subunit'
+p340
+aa(lp341
+g240
+aasS'b0526'
+p342
+(lp343
+(lp344
+S'cysS'
+p345
+aa(lp346
+S'cysteinyl-tRNA synthetase'
+p347
+aa(lp348
+S'6.1.1.16'
+p349
+aasS'b3733'
+p350
+(lp351
+(lp352
+S'uncG'
+p353
+aS'atpG'
+p354
+aS'papC'
+p355
+aa(lp356
+S'F1 sector of membrane-bound ATP synthase, gamma subunit'
+p357
+aS'F0F1 ATP synthase subunit gamma'
+p358
+aa(lp359
+g240
+aasS'b0632'
+p360
+(lp361
+(lp362
+S'dacA'
+p363
+aS'pfv'
+p364
+aa(lp365
+S'D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)'
+p366
+aS'D-alanyl-D-alanine carboxypeptidase'
+p367
+aa(lp368
+S'3.4.16.4'
+p369
+aasS'b2954'
+p370
+(lp371
+(lp372
+S'yggV'
+p373
+aS'rdgB'
+p374
+aa(lp375
+S'dITP/XTP pyrophosphatase'
+p376
+aS'putative deoxyribonucleotide triphosphate pyrophosphatase'
+p377
+aa(lp378
+S'3.6.1.-'
+p379
+aasS'b3738'
+p380
+(lp381
+(lp382
+S'atpB'
+p383
+aS'uncB'
+p384
+aS'papD'
+p385
+aa(lp386
+S'F0 sector of membrane-bound ATP synthase, subunit a'
+p387
+aS'ATP synthase subunit A'
+p388
+aa(lp389
+g240
+aasS'b0954'
+p390
+(lp391
+(lp392
+S'fabA'
+p393
+aa(lp394
+S'beta-hydroxydecanoyl thioester dehydrase'
+p395
+aS'hypothetical protein'
+p396
+aa(lp397
+S'4.2.1.59'
+p398
+aasS'b0485'
+p399
+(lp400
+(lp401
+S'ybaS'
+p402
+aS'glsA'
+p403
+aS'glsA1'
+p404
+aa(lp405
+S'glutaminase'
+p406
+aS'predicted glutaminase'
+p407
+aS'glutaminase 1'
+p408
+aa(lp409
+asS'b0888'
+p410
+(lp411
+(lp412
+S'trxB'
+p413
+aa(lp414
+S'thioredoxin reductase'
+p415
+aS'thioredoxin reductase, FAD/NAD(P)-binding'
+p416
+aa(lp417
+S'1.8.1.9'
+p418
+aasS'b3619'
+p419
+(lp420
+(lp421
+S'gmhD'
+p422
+aS'waaD'
+p423
+aS'hldD'
+p424
+aS'nbsB'
+p425
+aS'htrM'
+p426
+aS'rfaD'
+p427
+aa(lp428
+S'ADP-L-glycero-D-mannoheptose-6-epimerase, NAD(P)-binding'
+p429
+aS'ADP-L-glycero-D-manno-heptose-6-epimerase'
+p430
+aa(lp431
+S'5.1.3.20'
+p432
+aasS'b4139'
+p433
+(lp434
+(lp435
+S'aspA'
+p436
+aa(lp437
+S'aspartate ammonia-lyase'
+p438
+aa(lp439
+S'4.3.1.1'
+p440
+aasS'b1606'
+p441
+(lp442
+(lp443
+S'folM'
+p444
+aS'ydgB'
+p445
+aa(lp446
+S'dihydrofolate reductase folM'
+p447
+aS'dihydrofolate reductase isozyme'
+p448
+aS'dihydromonapterin reductase, NADPH-dependent; dihydrofolate reductase isozyme'
+p449
+aa(lp450
+S'1.5.1.3'
+p451
+aasS'b1702'
+p452
+(lp453
+(lp454
+S'pps'
+p455
+aS'ppsA'
+p456
+aa(lp457
+S'phosphoenolpyruvate synthase'
+p458
+aa(lp459
+S'2.7.9.2'
+p460
+aasS'b4041'
+p461
+(lp462
+(lp463
+S'plsB'
+p464
+ag461
+aa(lp465
+S'glycerol-3-phosphate O-acyltransferase'
+p466
+aS'glycerol-3-phosphate acyltransferase'
+p467
+aa(lp468
+S'2.3.1.15'
+p469
+aasS'b3612'
+p470
+(lp471
+(lp472
+S'gpmC'
+p473
+aS'yibO'
+p474
+aS'gpmI'
+p475
+aS'pgmI'
+p476
+aS'gpmM'
+p477
+aa(lp478
+S'phosphoglycero mutase III, cofactor-independent'
+p479
+aS'2,3-bisphosphoglycerate-independentphosphoglycerate mutase'
+p480
+aa(lp481
+S'5.4.2.1'
+p482
+aasS'b3368'
+p483
+(lp484
+(lp485
+S'cysG'
+p486
+aa(lp487
+S'fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase and siroheme ferrochelatase/uroporphyrinogen methyltransferase'
+p488
+aS'siroheme synthase'
+p489
+aS'fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase/siroheme ferrochelatase/uroporphyrinogen methyltransferase'
+p490
+aa(lp491
+S'1.3.1.76'
+p492
+aasS'b3617'
+p493
+(lp494
+(lp495
+S'kbl'
+p496
+aa(lp497
+S'glycine C-acetyltransferase'
+p498
+aS'2-amino-3-ketobutyrate CoA ligase'
+p499
+aa(lp500
+S'2.3.1.29'
+p501
+aasS'b2912'
+p502
+(lp503
+(lp504
+S'ygfA'
+p505
+aS'fau'
+p506
+aa(lp507
+S'putative ligase'
+p508
+aS'5-formyltetrahydrofolate cyclo-ligase family protein'
+p509
+aS'predicted ligase'
+p510
+aa(lp511
+asS'b0650'
+p512
+(lp513
+(lp514
+S'hscC'
+p515
+aS'ybeW'
+p516
+aa(lp517
+S'Hsp70 family chaperone Hsc62, binds to RpoD and inhibits transcription'
+p518
+aS'Hsp70 family chaperone Hsc62'
+p519
+aa(lp520
+asS'b0516'
+p521
+(lp522
+(lp523
+S'glxB7'
+p524
+aS'allC'
+p525
+aS'ylbB'
+p526
+aa(lp527
+S'allantoate amidohydrolase'
+p528
+aa(lp529
+S'3.5.3.4'
+p530
+aasS'b2688'
+p531
+(lp532
+(lp533
+S'gshA'
+p534
+aS'gshI'
+p535
+aS'gsh-I'
+p536
+ag531
+aa(lp537
+S'gamma-glutamate-cysteine ligase'
+p538
+aS'glutamate-cysteine ligase'
+p539
+aS'glutamate--cysteine ligase'
+p540
+aa(lp541
+S'6.3.2.2'
+p542
+aasS'b1814'
+p543
+(lp544
+(lp545
+S'sdaA'
+p546
+aa(lp547
+S'L-serine dehydratase 1'
+p548
+aS'L-serine deaminase I'
+p549
+aS'L-serine ammonia-lyase'
+p550
+aa(lp551
+S'4.3.1.17'
+p552
+aasS'b3919'
+p553
+(lp554
+(lp555
+S'tpiA'
+p556
+aS'tpi'
+p557
+aa(lp558
+S'triosephosphate isomerase'
+p559
+aa(lp560
+S'5.3.1.1'
+p561
+aasS'b1896'
+p562
+(lp563
+(lp564
+S'pexA'
+p565
+aS'otsA'
+p566
+aa(lp567
+S'trehalose-6-phosphate synthase'
+p568
+aS'alpha,alpha-trehalose-phosphate synthase, UDP-forming'
+p569
+aa(lp570
+S'2.4.1.15'
+p571
+aasS'b3916'
+p572
+(lp573
+(lp574
+S'pfkA'
+p575
+aa(lp576
+S'6-phosphofructokinase'
+p577
+aS'6-phosphofructokinase I'
+p578
+aa(lp579
+S'2.7.1.11'
+p580
+aasS'b0642'
+p581
+(lp582
+(lp583
+S'leuS'
+p584
+aa(lp585
+S'leucyl-tRNA synthetase'
+p586
+aa(lp587
+S'6.1.1.4'
+p588
+aasS'b4161'
+p589
+(lp590
+(lp591
+S'engC'
+p592
+aS'rsgA'
+p593
+aS'yjeQ'
+p594
+aa(lp595
+S'ribosome-associated GTPase'
+p596
+aS'ribosome small subunit-dependent GTPase A'
+p597
+aa(lp598
+g379
+aasS'b2582'
+p599
+(lp600
+(lp601
+S'trxC'
+p602
+aS'yfiG'
+p603
+aa(lp604
+S'thioredoxin-2'
+p605
+aS'thioredoxin 2'
+p606
+aa(lp607
+S'1.8.1.8'
+p608
+aasS'b0494'
+p609
+(lp610
+(lp611
+S'apeA'
+p612
+aS'tesA'
+p613
+aS'pldC'
+p614
+aa(lp615
+S'multifunctional acyl-CoA thioesterase 1; protease I; lysophospholipase L1'
+p616
+aS'multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1'
+p617
+aS'esterase'
+p618
+aa(lp619
+g45
+aasS'b3115'
+p620
+(lp621
+(lp622
+S'tdcD'
+p623
+aS'yhaA'
+p624
+aa(lp625
+S'propionate kinase/acetate kinase C, anaerobic'
+p626
+aa(lp627
+S'2.7.2.15'
+p628
+aasS'b3117'
+p629
+(lp630
+(lp631
+S'tdcB'
+p632
+aa(lp633
+S'catabolic threonine dehydratase, PLP-dependent'
+p634
+aS'threonine dehydratase catabolic'
+p635
+aS'L-threonine dehydratase, catabolic'
+p636
+aa(lp637
+S'4.3.1.19'
+p638
+aasS'b1812'
+p639
+(lp640
+(lp641
+S'pabB'
+p642
+aa(lp643
+S'aminodeoxychorismate synthase subunit I'
+p644
+aS'aminodeoxychorismate synthase, subunit I'
+p645
+aa(lp646
+S'2.6.1.85'
+p647
+aasS'b4471'
+p648
+(lp649
+(lp650
+S'tdcG'
+p651
+aS'yhaP'
+p652
+aS'yhaQ'
+p653
+aa(lp654
+S'L-serine dehydratase 3, anaerobic'
+p655
+aS'L-serine dehydratase 3'
+p656
+aS'L-serine ammonia-lyase TdcG'
+p657
+aa(lp658
+g552
+aasS'b3739'
+p659
+(lp660
+(lp661
+S'atpI'
+p662
+aS'uncI'
+p663
+aa(lp664
+S'ATP synthase, membrane-bound accesory subunit'
+p665
+aS'ATP synthase, membrane-bound accessory factor'
+p666
+aS'membrane-bound ATP synthase'
+p667
+aa(lp668
+g240
+aasS'b1033'
+p669
+(lp670
+(lp671
+S'ghrA'
+p672
+aS'ycdW'
+p673
+aa(lp674
+S'glyoxylate/hydroxypyruvate reductase A'
+p675
+aS'2-ketoacid reductase'
+p676
+aa(lp677
+S'1.1.1.79'
+p678
+aasS'b0893'
+p679
+(lp680
+(lp681
+S'serS'
+p682
+aa(lp683
+S'seryl-tRNA synthetase'
+p684
+aS'seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine'
+p685
+aa(lp686
+S'6.1.1.11'
+p687
+aasS'b1224'
+p688
+(lp689
+(lp690
+S'narG'
+p691
+aS'chlC'
+p692
+aS'narC'
+p693
+aa(lp694
+S'nitrate reductase 1, alpha subunit'
+p695
+aa(lp696
+S'1.7.99.4'
+p697
+aasS'b1225'
+p698
+(lp699
+(lp700
+g692
+aS'narH'
+p701
+aa(lp702
+S'nitrate reductase 1, beta (Fe-S) subunit'
+p703
+aS'nitrate reductase 1 subunit, beta (Fe-S)'
+p704
+aa(lp705
+g697
+aasS'b1226'
+p706
+(lp707
+(lp708
+S'narJ'
+p709
+aa(lp710
+S'respiratory nitrate reductase 1 subunit delta'
+p711
+aS'molybdenum-cofactor-assembly chaperone subunit (delta subunit) of nitrate reductase 1'
+p712
+aa(lp713
+g697
+aasS'b1227'
+p714
+(lp715
+(lp716
+S'chlI'
+p717
+aS'narI'
+p718
+aa(lp719
+S'nitrate reductase 1, gamma (cytochrome b(NR)) subunit'
+p720
+aS'respiratory nitrate reductase subunit gamma'
+p721
+aa(lp722
+g697
+aasS'b2557'
+p723
+(lp724
+(lp725
+S'purI'
+p726
+aS'purG'
+p727
+aS'purL'
+p728
+aa(lp729
+S'phosphoribosylformyl-glycineamide synthetase'
+p730
+aS'phosphoribosylformylglycinamidine synthase'
+p731
+aa(lp732
+S'6.3.5.3'
+p733
+aasS'b1131'
+p734
+(lp735
+(lp736
+S'purB'
+p737
+aS'ade'
+p738
+aa(lp739
+S'adenylosuccinate lyase'
+p740
+aa(lp741
+S'4.3.2.2'
+p742
+aasS'b0085'
+p743
+(lp744
+(lp745
+S'murE'
+p746
+aa(lp747
+S'UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase'
+p748
+aS'UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase'
+p749
+aa(lp750
+S'6.3.2.13'
+p751
+aasS'b3650'
+p752
+(lp753
+(lp754
+S'spoT'
+p755
+aa(lp756
+S"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase"
+p757
+aS"bifunctional (p)ppGpp synthetase II/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase"
+p758
+aS'guanosine-3,5-bis(diphosphate)3-pyrophosphohydrolase'
+p759
+aa(lp760
+S'2.7.6.5'
+p761
+aasS'b2342'
+p762
+(lp763
+(lp764
+S'yfcY'
+p765
+aS'fadI'
+p766
+aa(lp767
+S'3-ketoacyl-CoA thiolase'
+p768
+aS'beta-ketoacyl-CoA thiolase, anaerobic, subunit'
+p769
+aa(lp770
+S'2.3.1.16'
+p771
+aasS'b2615'
+p772
+(lp773
+(lp774
+S'nadK'
+p775
+aS'yfjB'
+p776
+aS'uppS'
+p777
+aS'ppnK'
+p778
+aS'yfjE'
+p779
+aa(lp780
+S'NAD kinase'
+p781
+aS'inorganic polyphosphate/ATP-NAD kinase'
+p782
+aa(lp783
+S'2.7.1.23'
+p784
+aasS'b3551'
+p785
+(lp786
+(lp787
+S'bisC'
+p788
+aa(lp789
+S'biotin sulfoxide reductase'
+p790
+aa(lp791
+S'1.-.-.-'
+p792
+aasS'b2341'
+p793
+(lp794
+(lp795
+S'yfcX'
+p796
+aS'fadJ'
+p797
+aa(lp798
+S'fused enoyl-CoA hydratase and epimerase and isomerase/3-hydroxyacyl-CoA dehydrogenase'
+p799
+aS'multifunctional fatty acid oxidation complex subunit alpha'
+p800
+aS'fused enoyl-CoA hydratase and epimerase and isomerase/3-hydroxyacyl-CoA dehydrogenase, subunit of anaerobic fatty acid oxidation complex'
+p801
+aa(lp802
+S'1.1.1.35'
+p803
+aasS'b1095'
+p804
+(lp805
+(lp806
+S'vtr'
+p807
+aS'fabF'
+p808
+aS'cvc'
+p809
+aS'fabJ'
+p810
+aa(lp811
+S'3-oxoacyl-[acyl-carrier-protein] synthase II'
+p812
+aS'3-oxoacyl-ACP synthase'
+p813
+aa(lp814
+S'2.3.1.41'
+p815
+aasS'b1094'
+p816
+(lp817
+(lp818
+S'acpP'
+p819
+aa(lp820
+S'acyl carrier protein (ACP)'
+p821
+aS'acyl carrier protein'
+p822
+ag396
+aa(lp823
+asS'b4054'
+p824
+(lp825
+(lp826
+S'tyrB'
+p827
+aa(lp828
+S'aromatic amino acid aminotransferase'
+p829
+aS'tyrosine aminotransferase, tyrosine-repressible, PLP-dependent'
+p830
+aa(lp831
+S'2.6.1.57'
+p832
+aasS'b1092'
+p833
+(lp834
+(lp835
+S'fabD'
+p836
+aS'tfpA'
+p837
+aa(lp838
+S'malonyl-CoA-[acyl-carrier-protein] transacylase'
+p839
+aS'malonyl CoA-acyl carrier protein transacylase'
+p840
+aa(lp841
+S'2.3.1.39'
+p842
+aasS'b1091'
+p843
+(lp844
+(lp845
+S'fabH'
+p846
+aa(lp847
+g813
+aS'3-oxoacyl-[acyl-carrier-protein] synthase III'
+p848
+aa(lp849
+g815
+aasS'b1241'
+p850
+(lp851
+(lp852
+S'adhC'
+p853
+aS'ana'
+p854
+aS'adhE'
+p855
+aa(lp856
+S'aldehyde-alcohol dehydrogenase'
+p857
+aS'fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase'
+p858
+aa(lp859
+S'1.1.1.1'
+p860
+aasS'b1493'
+p861
+(lp862
+(lp863
+S'gadB'
+p864
+aa(lp865
+S'glutamate decarboxylase B, PLP-dependent'
+p866
+aS'glutamate decarboxylase'
+p867
+aa(lp868
+S'4.1.1.15'
+p869
+aasS'b1719'
+p870
+(lp871
+(lp872
+S'thrS'
+p873
+aa(lp874
+S'threonyl-tRNA synthetase'
+p875
+aa(lp876
+S'6.1.1.3'
+p877
+aasS'b2168'
+p878
+(lp879
+(lp880
+S'fruK'
+p881
+aS'fpk'
+p882
+aa(lp883
+S'fructose-1-phosphate kinase'
+p884
+aS'1-phosphofructokinase'
+p885
+aa(lp886
+S'2.7.1.56'
+p887
+aasS'b1098'
+p888
+(lp889
+(lp890
+S'ycfG'
+p891
+aS'tmk'
+p892
+aa(lp893
+S'thymidylate kinase'
+p894
+aa(lp895
+S'2.7.4.9'
+p896
+aasS'b3846'
+p897
+(lp898
+(lp899
+S'fadB'
+p900
+aS'oldB'
+p901
+aa(lp902
+S'fused 3-hydroxybutyryl-CoA epimerase/delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase'
+p903
+ag800
+aa(lp904
+g803
+aasS'b3845'
+p905
+(lp906
+(lp907
+S'oldA'
+p908
+aS'fadA'
+p909
+aa(lp910
+g768
+aS'3-ketoacyl-CoA thiolase (thiolase I)'
+p911
+aa(lp912
+g771
+aasS'b0308'
+p913
+(lp914
+(lp915
+S'ykgG'
+p916
+aa(lp917
+S'LutC family protein; putative electron transport chain YkgEFG component'
+p918
+aS'transporter'
+p919
+aa(lp920
+asS'b1415'
+p921
+(lp922
+(lp923
+g254
+aS'aldA'
+p924
+aa(lp925
+S'aldehyde dehydrogenase A, NAD-linked'
+p926
+aS'aldehyde dehydrogenase A'
+p927
+aa(lp928
+S'1.2.1.22'
+p929
+aasS'b2935'
+p930
+(lp931
+(lp932
+S'tkt'
+p933
+aS'tktA'
+p934
+aa(lp935
+S'transketolase'
+p936
+aS'transketolase 1, thiamine triphosphate-binding'
+p937
+aS'transketolase 1, thiamin-binding'
+p938
+aa(lp939
+S'2.2.1.1'
+p940
+aasS'b0306'
+p941
+(lp942
+(lp943
+S'ykgE'
+p944
+aa(lp945
+S'oxidoreductase'
+p946
+aS'cysteine-rich LutA family protein; putative electron transport chain YkgEFG component'
+p947
+aa(lp948
+asS'b0307'
+p949
+(lp950
+(lp951
+S'ykgF'
+p952
+aa(lp953
+S'ferridoxin-like LutB family protein; putative electron transport chain YkgEFG component'
+p954
+aS'electron transport protein with ferredoxin-like domai'
+p955
+aa(lp956
+asS'b2867'
+p957
+(lp958
+(lp959
+S'xdhB'
+p960
+aS'ygeT'
+p961
+aa(lp962
+S'xanthine dehydrogenase subunit XdhB'
+p963
+aS'xanthine dehydrogenase, FAD-binding subunit'
+p964
+aa(lp965
+asS'b2866'
+p966
+(lp967
+(lp968
+S'xdhA'
+p969
+aS'ygeS'
+p970
+aa(lp971
+S'xanthine dehydrogenase, molybdenum binding subunit'
+p972
+aS'xanthine dehydrogenase subunit XdhA'
+p973
+aa(lp974
+asS'b4117'
+p975
+(lp976
+(lp977
+S'adiA'
+p978
+aS'adi'
+p979
+aa(lp980
+S'biodegradative arginine decarboxylase'
+p981
+aS'arginine decarboxylase'
+p982
+aa(lp983
+S'4.1.1.19'
+p984
+aasS'b1800'
+p985
+(lp986
+(lp987
+S'dmlA'
+p988
+aS'yeaU'
+p989
+aa(lp990
+S'predicted dehydrogenase'
+p991
+aS'putative dehydrogenase'
+p992
+aS'D-malate oxidase, NAD-dependent; putative tartrate dehydrogenase'
+p993
+aa(lp994
+asS'b2965'
+p995
+(lp996
+(lp997
+S'speC'
+p998
+aa(lp999
+S'ornithine decarboxylase'
+p1000
+aS'ornithine decarboxylase, constitutive'
+p1001
+aa(lp1002
+S'4.1.1.17'
+p1003
+aasS'b2276'
+p1004
+(lp1005
+(lp1006
+S'nuoN'
+p1007
+aa(lp1008
+S'NADH:ubiquinone oxidoreductase, membrane subunit N'
+p1009
+aS'NADH-quinone oxidoreductase subunit N'
+p1010
+aa(lp1011
+asS'b2277'
+p1012
+(lp1013
+(lp1014
+S'nuoA'
+p1015
+aS'nuoM'
+p1016
+aa(lp1017
+S'NADH-quinone oxidoreductase subunit M'
+p1018
+aS'NADH:ubiquinone oxidoreductase, membrane subunit M'
+p1019
+aa(lp1020
+asS'b1852'
+p1021
+(lp1022
+(lp1023
+S'zwf'
+p1024
+aa(lp1025
+S'glucose-6-phosphate dehydrogenase'
+p1026
+aS'glucose-6-phosphate 1-dehydrogenase'
+p1027
+aa(lp1028
+S'1.1.1.49'
+p1029
+aasS'b3281'
+p1030
+(lp1031
+(lp1032
+S'aroE'
+p1033
+aa(lp1034
+S'shikimate 5-dehydrogenase'
+p1035
+aS'dehydroshikimate reductase, NAD(P)-binding'
+p1036
+aa(lp1037
+S'1.1.1.25'
+p1038
+aasS'b2278'
+p1039
+(lp1040
+(lp1041
+S'nuoL'
+p1042
+aa(lp1043
+S'NADH:ubiquinone oxidoreductase, membrane subunit L'
+p1044
+aS'NADH dehydrogenase subunit L'
+p1045
+aa(lp1046
+asS'b2279'
+p1047
+(lp1048
+(lp1049
+S'nuoK'
+p1050
+aa(lp1051
+S'NADH:ubiquinone oxidoreductase, membrane subunit K'
+p1052
+aS'NADH-quinone oxidoreductase subunit K'
+p1053
+aa(lp1054
+asS'b3519'
+p1055
+(lp1056
+(lp1057
+S'treF'
+p1058
+aa(lp1059
+S'cytoplasmic trehalase'
+p1060
+aa(lp1061
+S'3.2.1.28'
+p1062
+aasS'b3996'
+p1063
+(lp1064
+(lp1065
+S'nudC'
+p1066
+aS'yjaD'
+p1067
+aa(lp1068
+S'NADH pyrophosphatase'
+p1069
+aa(lp1070
+asS'b3997'
+p1071
+(lp1072
+(lp1073
+S'hemC'
+p1074
+aS'hemE'
+p1075
+aa(lp1076
+S'uroporphyrinogen decarboxylase'
+p1077
+aa(lp1078
+S'4.1.1.37'
+p1079
+aasS'b0133'
+p1080
+(lp1081
+(lp1082
+S'panC'
+p1083
+aa(lp1084
+S'pantothenate synthetase'
+p1085
+aS'pantoate--beta-alanine ligase'
+p1086
+aa(lp1087
+S'6.3.2.1'
+p1088
+aasS'b2501'
+p1089
+(lp1090
+(lp1091
+S'ppk'
+p1092
+aa(lp1093
+S'polyphosphate kinase, component of RNA degradosome'
+p1094
+aS'polyphosphate kinase'
+p1095
+aa(lp1096
+S'2.7.4.1'
+p1097
+aasS'b2502'
+p1098
+(lp1099
+(lp1100
+S'ppx'
+p1101
+aa(lp1102
+S'exopolyphosphatase'
+p1103
+aa(lp1104
+S'3.6.1.11'
+p1105
+aasS'b2938'
+p1106
+(lp1107
+(lp1108
+S'speA'
+p1109
+aa(lp1110
+g982
+aS'biosynthetic arginine decarboxylase, PLP-binding'
+p1111
+aa(lp1112
+g984
+aasS'b2373'
+p1113
+(lp1114
+(lp1115
+S'yfdU'
+p1116
+aS'oxc'
+p1117
+aa(lp1118
+S'thiamine pyrophosphate-dependent enzyme'
+p1119
+aS'oxalyl CoA decarboxylase, ThDP-dependent'
+p1120
+aS'predicted oxalyl-CoA decarboxylase'
+p1121
+aa(lp1122
+asS'b0120'
+p1123
+(lp1124
+(lp1125
+S'speD'
+p1126
+aa(lp1127
+S'S-adenosylmethionine decarboxylase'
+p1128
+aa(lp1129
+S'4.1.1.50'
+p1130
+aasS'b0092'
+p1131
+(lp1132
+(lp1133
+S'ddlB'
+p1134
+aS'ddl'
+p1135
+aa(lp1136
+S'D-Alanine:D-alanine ligase'
+p1137
+aS'D-alanine:D-alanine ligase'
+p1138
+ag1135
+aa(lp1139
+S'6.3.2.4'
+p1140
+aasS'b2463'
+p1141
+(lp1142
+(lp1143
+S'maeB'
+p1144
+aS'ypfF'
+p1145
+aa(lp1146
+S'malic enzyme: putative oxidoreductase/putative phosphotransacetylase'
+p1147
+aS'fused malic enzyme predicted oxidoreductase/predicted phosphotransacetylase'
+p1148
+aS'malic enzyme'
+p1149
+aa(lp1150
+asS'b2407'
+p1151
+(lp1152
+(lp1153
+S'xapA'
+p1154
+aS'pndA'
+p1155
+aa(lp1156
+S'purine nucleoside phosphorylase'
+p1157
+aS'purine nucleoside phosphorylase II'
+p1158
+aa(lp1159
+g143
+aasS'b2779'
+p1160
+(lp1161
+(lp1162
+S'eno'
+p1163
+aa(lp1164
+S'enolase'
+p1165
+aa(lp1166
+S'4.2.1.11'
+p1167
+aasS'b3517'
+p1168
+(lp1169
+(lp1170
+S'gadA'
+p1171
+aS'gadS'
+p1172
+aa(lp1173
+S'glutamate decarboxylase A, PLP-dependent'
+p1174
+ag867
+aa(lp1175
+g869
+aasS'b2874'
+p1176
+(lp1177
+(lp1178
+S'yqeA'
+p1179
+aa(lp1180
+S'putative amino acid kinase'
+p1181
+aS'predicted amino acid kinase'
+p1182
+aS'carbamate kinase-like protein YqeA'
+p1183
+aa(lp1184
+asS'b1378'
+p1185
+(lp1186
+(lp1187
+S'soi-9'
+p1188
+aS'ydbK'
+p1189
+aS'nifJ'
+p1190
+aS'pfo'
+p1191
+aa(lp1192
+S'pyruvate-flavodoxin oxidoreductase'
+p1193
+aS'fused putative pyruvate-flavodoxinoxidoreductase: hypothetical protein'
+p1194
+aa(lp1195
+asS'b1919'
+p1196
+(lp1197
+(lp1198
+S'yedO'
+p1199
+aS'dcyD'
+p1200
+aa(lp1201
+S'D-cysteine desulfhydrase, PLP-dependent'
+p1202
+aS'D-cysteine desulfhydrase'
+p1203
+aa(lp1204
+S'4.4.1.15'
+p1205
+aasS'b1276'
+p1206
+(lp1207
+(lp1208
+S'acn'
+p1209
+aS'acnA'
+p1210
+aa(lp1211
+S'aconitate hydratase'
+p1212
+aS'aconitate hydratase 1'
+p1213
+aa(lp1214
+S'4.2.1.3'
+p1215
+aasS'b3380'
+p1216
+(lp1217
+(lp1218
+S'yhfW'
+p1219
+aa(lp1220
+S'putative mutase'
+p1221
+aS'predicted mutase'
+p1222
+aS'phosphopentomutase-related metalloenzyme superfamily protein'
+p1223
+aa(lp1224
+asS'b2563'
+p1225
+(lp1226
+(lp1227
+S'dpj'
+p1228
+aS'acpS'
+p1229
+aa(lp1230
+S'holo-[acyl-carrier-protein] synthase 1'
+p1231
+ag85
+aa(lp1232
+S'2.7.8.7'
+p1233
+aasS'b2010'
+p1234
+(lp1235
+(lp1236
+S'phsE'
+p1237
+aS'yeeC'
+p1238
+aS'phsF'
+p1239
+aS'dacD'
+p1240
+aa(lp1241
+S'D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 6b)'
+p1242
+ag367
+aa(lp1243
+g369
+aasS'b4219'
+p1244
+(lp1245
+(lp1246
+S'pmsR'
+p1247
+aS'pms'
+p1248
+aS'msrA'
+p1249
+aa(lp1250
+S'methionine sulfoxide reductase A'
+p1251
+aa(lp1252
+S'1.8.4.11'
+p1253
+aasS'b0928'
+p1254
+(lp1255
+(lp1256
+S'aspC'
+p1257
+aa(lp1258
+S'aspartate aminotransferase'
+p1259
+aS'aspartate aminotransferase, PLP-dependent'
+p1260
+aa(lp1261
+S'2.6.1.1'
+p1262
+aasS'b3212'
+p1263
+(lp1264
+(lp1265
+S'gltB'
+p1266
+aS'ossB'
+p1267
+aS'aspB'
+p1268
+aS'psiQ'
+p1269
+aa(lp1270
+S'glutamate synthase, large subunit'
+p1271
+aS'glutamate synthase subunit alpha'
+p1272
+aa(lp1273
+S'1.4.1.13'
+p1274
+aS'1.4.7.1'
+p1275
+aasS'b4025'
+p1276
+(lp1277
+(lp1278
+S'pgi'
+p1279
+aa(lp1280
+S'glucosephosphate isomerase'
+p1281
+aS'glucose-6-phosphate isomerase'
+p1282
+aa(lp1283
+S'5.3.1.9'
+p1284
+aasS'b0077'
+p1285
+(lp1286
+(lp1287
+S'ilvI'
+p1288
+aa(lp1289
+S'acetolactate synthase'
+p1290
+aS'acetolactate synthase 3 large subunit'
+p1291
+aS'acetolactate synthase III, large subunit'
+p1292
+aa(lp1293
+S'2.2.1.6'
+p1294
+aasS'b1767'
+p1295
+(lp1296
+(lp1297
+S'ansA'
+p1298
+aa(lp1299
+S'L-asparaginase 1'
+p1300
+aS'cytoplasmic L-asparaginase 1'
+p1301
+aS'cytoplasmic L-asparaginase I'
+p1302
+aa(lp1303
+S'3.5.1.1'
+p1304
+aasS'b1676'
+p1305
+(lp1306
+(lp1307
+S'pykF'
+p1308
+aa(lp1309
+S'pyruvate kinase I'
+p1310
+aa(lp1311
+S'2.7.1.40'
+p1312
+aasS'b3972'
+p1313
+(lp1314
+(lp1315
+S'murB'
+p1316
+aS'yijB'
+p1317
+aa(lp1318
+S'UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding'
+p1319
+aS'UDP-N-acetylenolpyruvoylglucosamine reductase'
+p1320
+aa(lp1321
+S'1.3.1.98'
+p1322
+aasS'b2315'
+p1323
+(lp1324
+(lp1325
+S'dedC'
+p1326
+aS'folC'
+p1327
+aa(lp1328
+S'bifunctional folylpolyglutamate synthase/ dihydrofolate synthase'
+p1329
+aS'bifunctional folylpolyglutamate synthase/dihydrofolate synthase'
+p1330
+aa(lp1331
+S'6.3.2.12'
+p1332
+aasS'b2976'
+p1333
+(lp1334
+(lp1335
+S'glc'
+p1336
+aS'glcB'
+p1337
+aa(lp1338
+S'malate synthase G'
+p1339
+aa(lp1340
+S'2.3.3.9'
+p1341
+aasS'b2458'
+p1342
+(lp1343
+(lp1344
+S'ypfA'
+p1345
+aS'eutI'
+p1346
+aS'eutD'
+p1347
+aa(lp1348
+S'predicted phosphotransacetylase subunit'
+p1349
+aS'phosphate acetyltransferase'
+p1350
+aS'phosphotransacetylase'
+p1351
+aa(lp1352
+asS'b0078'
+p1353
+(lp1354
+(lp1355
+S'brnP'
+p1356
+aS'ilvH'
+p1357
+aa(lp1358
+g1290
+aS'acetolactate synthase III, thiamin-dependent, small subunit'
+p1359
+aS'acetolactate synthase 3, small subunit, valine-sensitive'
+p1360
+aa(lp1361
+g1294
+aasS'b3384'
+p1362
+(lp1363
+(lp1364
+S'trpS'
+p1365
+aa(lp1366
+S'tryptophanyl-tRNA synthetase'
+p1367
+aa(lp1368
+S'6.1.1.2'
+p1369
+aasS'b3172'
+p1370
+(lp1371
+(lp1372
+S'argE'
+p1373
+aS'Arg6'
+p1374
+aS'argG'
+p1375
+aa(lp1376
+S'argininosuccinate synthetase'
+p1377
+aS'argininosuccinate synthase'
+p1378
+aa(lp1379
+S'6.3.4.5'
+p1380
+aasS'b3176'
+p1381
+(lp1382
+(lp1383
+S'mrsA'
+p1384
+aS'glmM'
+p1385
+aS'yhbF'
+p1386
+aa(lp1387
+S'phosphoglucosamine mutase'
+p1388
+aa(lp1389
+S'5.4.2.10'
+p1390
+aasS'b3735'
+p1391
+(lp1392
+(lp1393
+S'papE'
+p1394
+aS'atpH'
+p1395
+aS'uncH'
+p1396
+aa(lp1397
+S'ATP synthase subunit delta'
+p1398
+aS'F1 sector of membrane-bound ATP synthase, delta subunit'
+p1399
+aa(lp1400
+g240
+aasS'b0032'
+p1401
+(lp1402
+(lp1403
+g1401
+aS'cap'
+p1404
+aS'carA'
+p1405
+aS'pyrA'
+p1406
+aS'arg'
+p1407
+aa(lp1408
+S'carbamoyl phosphate synthase small subunit'
+p1409
+aS'carbamoyl-phosphate synthase'
+p1410
+aS'carbamoyl phosphate synthetase small subunit, glutamine amidotransferase'
+p1411
+aa(lp1412
+S'6.3.5.5'
+p1413
+aasS'b4024'
+p1414
+(lp1415
+(lp1416
+S'apk'
+p1417
+aS'lysC'
+p1418
+aa(lp1419
+S'aspartokinase III'
+p1420
+aS'aspartate kinase III'
+p1421
+aS'lysine-sensitive aspartokinase 3'
+p1422
+aa(lp1423
+S'2.7.2.4'
+p1424
+aasS'b3580'
+p1425
+(lp1426
+(lp1427
+S'yiaP'
+p1428
+aS'lyxK'
+p1429
+aS'lyx'
+p1430
+aS'xylK'
+p1431
+aa(lp1432
+S'L-xylulose kinase'
+p1433
+aa(lp1434
+S'2.7.1.53'
+p1435
+aasS'b1134'
+p1436
+(lp1437
+(lp1438
+S'ymfB'
+p1439
+aS'nudJ'
+p1440
+aa(lp1441
+S'phosphatase nudJ'
+p1442
+aS'bifunctional thiamine pyrimidine pyrophosphate hydrolase/ thiamine pyrophosphate hydrolase'
+p1443
+aS'bifunctional thiamin pyrimidine pyrophosphate hydrolase; thiamin pyrophosphate hydrolase'
+p1444
+aa(lp1445
+asS'b2095'
+p1446
+(lp1447
+(lp1448
+S'gatZ'
+p1449
+aa(lp1450
+S'D-tagatose 1,6-bisphosphate aldolase 2, subunit'
+p1451
+aa(lp1452
+S'4.1.2.40'
+p1453
+aasS'b2243'
+p1454
+(lp1455
+(lp1456
+S'glpC'
+p1457
+aS'glpB'
+p1458
+aa(lp1459
+S'sn-glycerol-3-phosphate dehydrogenase (anaerobic), small subunit'
+p1460
+aS'anaerobic sn-glycerol-3-phosphate dehydrogenase, C subunit, 4Fe-4S iron-sulfur cluster'
+p1461
+aS'sn-glycerol-3-phosphate dehydrogenase subunit C'
+p1462
+aa(lp1463
+asS'b2242'
+p1464
+(lp1465
+(lp1466
+S'psi-51'
+p1467
+ag1457
+ag1458
+aa(lp1468
+S'anaerobic glycerol-3-phosphate dehydrogenase'
+p1469
+aS'sn-glycerol-3-phosphate dehydrogenase (anaerobic), membrane anchor subunit'
+p1470
+aa(lp1471
+S'1.1.5.3'
+p1472
+aasS'b2241'
+p1473
+(lp1474
+(lp1475
+S'glpA'
+p1476
+aa(lp1477
+S'anaerobic glycerol-3-phosphate dehydrogenase subunit A'
+p1478
+aS'sn-glycerol-3-phosphate dehydrogenase (anaerobic), large subunit, FAD/NAD(P)-binding'
+p1479
+aa(lp1480
+g1472
+aasS'b3137'
+p1481
+(lp1482
+(lp1483
+S'yraC'
+p1484
+aS'agaY'
+p1485
+aS'kba'
+p1486
+aS'kbaY'
+p1487
+aa(lp1488
+S'tagatose 6-phosphate aldolase 1, kbaY subunit'
+p1489
+aS'tagatose-1,6-bisphosphate aldolase kbaY'
+p1490
+aa(lp1491
+g1453
+aasS'b2478'
+p1492
+(lp1493
+(lp1494
+S'dapA'
+p1495
+aa(lp1496
+S'dihydrodipicolinate synthase'
+p1497
+aa(lp1498
+S'4.3.3.7'
+p1499
+aasS'b3605'
+p1500
+(lp1501
+(lp1502
+S'lct'
+p1503
+aS'lctD'
+p1504
+aS'lldD'
+p1505
+aa(lp1506
+S'L-lactate dehydrogenase, FMN-linked'
+p1507
+ag1505
+aa(lp1508
+S'1.1.2.3'
+p1509
+aasS'b2762'
+p1510
+(lp1511
+(lp1512
+S'cysH'
+p1513
+aa(lp1514
+S'phosphoadenosine phosphosulfate reductase; PAPS reductase, thioredoxin dependent'
+p1515
+aS"3'-phosphoadenosine 5'-phosphosulfate reductase"
+p1516
+aS'phosphoadenylyl-sulfate reductase'
+p1517
+aa(lp1518
+S'1.8.4.8'
+p1519
+aasS'b4394'
+p1520
+(lp1521
+(lp1522
+S'yjjX'
+p1523
+aa(lp1524
+S'NTPase'
+p1525
+aS'non-canonical purine NTP phosphatase, ITPase/XTPase'
+p1526
+ag396
+aa(lp1527
+asS'b0381'
+p1528
+(lp1529
+(lp1530
+S'ddlA'
+p1531
+ag1135
+aa(lp1532
+S'D-alanyl-alanine synthetase A'
+p1533
+aS'D-alanine-D-alanine ligase A'
+p1534
+aa(lp1535
+g1140
+aasS'b3073'
+p1536
+(lp1537
+(lp1538
+S'patA'
+p1539
+aS'ygjG'
+p1540
+aa(lp1541
+S'putrescine:2-oxoglutaric acid aminotransferase, PLP-dependent'
+p1542
+aa(lp1543
+S'2.6.1.29'
+p1544
+aasS'b1014'
+p1545
+(lp1546
+(lp1547
+S'poaA'
+p1548
+aS'putA'
+p1549
+aS'putC'
+p1550
+aa(lp1551
+S'trifunctional transcriptional regulator/prolinedehydrogenase/pyrroline-5-carboxylate dehydrogenase'
+p1552
+aS'fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase'
+p1553
+aa(lp1554
+S'1.2.1.88'
+p1555
+aasS'b3608'
+p1556
+(lp1557
+(lp1558
+S'gpsA'
+p1559
+aa(lp1560
+S'glycerol-3-phosphate dehydrogenase (NAD+)'
+p1561
+aS'glycerol-3-phosphate dehydrogenase [NAD(P)+]'
+p1562
+aa(lp1563
+S'1.1.1.94'
+p1564
+aasS'b1773'
+p1565
+(lp1566
+(lp1567
+S'ydjI'
+p1568
+aa(lp1569
+S'predicted aldolase'
+p1570
+aS'putative aldolase'
+p1571
+aa(lp1572
+asS'b0870'
+p1573
+(lp1574
+(lp1575
+S'ltaE'
+p1576
+aS'ybjU'
+p1577
+aS'ltaA'
+p1578
+aa(lp1579
+S'L-allo-threonine aldolase, PLP-dependent'
+p1580
+aS'L-threonine aldolase'
+p1581
+aa(lp1582
+S'4.1.2.5'
+p1583
+aasS'b3417'
+p1584
+(lp1585
+(lp1586
+S'blu'
+p1587
+aS'malP'
+p1588
+aS'malA'
+p1589
+aa(lp1590
+S'maltodextrin phosphorylase'
+p1591
+aa(lp1592
+S'2.4.1.1'
+p1593
+aasS'b3416'
+p1594
+(lp1595
+(lp1596
+g1589
+aS'malQ'
+p1597
+aa(lp1598
+S'4-alpha-glucanotransferase (amylomaltase)'
+p1599
+aS'4-alpha-glucanotransferase'
+p1600
+aa(lp1601
+S'2.4.1.25'
+p1602
+aasS'b3942'
+p1603
+(lp1604
+(lp1605
+S'katG'
+p1606
+aa(lp1607
+S'catalase-peroxidase HPI, heme b-containing'
+p1608
+aS'peroxidase/catalase HPI'
+p1609
+aS'catalase/hydroperoxidase HPI(I)'
+p1610
+aa(lp1611
+g172
+aasS'b4131'
+p1612
+(lp1613
+(lp1614
+S'cadA'
+p1615
+aS'ldcI'
+p1616
+aa(lp1617
+S'lysine decarboxylase 1'
+p1618
+aS'lysine decarboxylase, acid-inducible'
+p1619
+aS'lysine decarboxylase, inducible'
+p1620
+aa(lp1621
+S'4.1.1.18'
+p1622
+aasS'b3940'
+p1623
+(lp1624
+(lp1625
+S'metL'
+p1626
+aS'metM'
+p1627
+aa(lp1628
+S'fused aspartokinase II/homoserine dehydrogenase II'
+p1629
+aS'bifunctional aspartate kinase II/homoserin edehydrogenase II'
+p1630
+aS'Bifunctional aspartokinase/homoserine dehydrogenase 2'
+p1631
+aa(lp1632
+g229
+aasS'b3091'
+p1633
+(lp1634
+(lp1635
+S'uxaA'
+p1636
+aS'ygjW'
+p1637
+aa(lp1638
+S'altronate hydrolase'
+p1639
+aa(lp1640
+S'4.2.1.7'
+p1641
+aasS'b4226'
+p1642
+(lp1643
+(lp1644
+S'ppa'
+p1645
+aa(lp1646
+S'inorganic pyrophosphatase'
+p1647
+aa(lp1648
+S'3.6.1.1'
+p1649
+aasS'b2146'
+p1650
+(lp1651
+(lp1652
+S'yeiT'
+p1653
+aS'preT'
+p1654
+aS'dpdA'
+p1655
+aS'preB'
+p1656
+aa(lp1657
+S'putative oxidoreductase'
+p1658
+aS'predicted oxidoreductase'
+p1659
+aS'dihydropyrimidine dehydrogenase, NADH-dependent, subunit N'
+p1660
+aa(lp1661
+asS'b2147'
+p1662
+(lp1663
+(lp1664
+S'yeiA'
+p1665
+aS'preA'
+p1666
+aa(lp1667
+S'dihydropyrimidine dehydrogenase, NADH-dependent, subunit C'
+p1668
+ag1658
+ag1659
+aa(lp1669
+asS'b0514'
+p1670
+(lp1671
+(lp1672
+S'glxB5'
+p1673
+aS'ybbZ'
+p1674
+aS'glxK'
+p1675
+aa(lp1676
+S'glycerate kinase II'
+p1677
+aS'glycerate kinase'
+p1678
+aa(lp1679
+S'2.7.1.31'
+p1680
+aasS'b2708'
+p1681
+(lp1682
+(lp1683
+S'gutQ'
+p1684
+aS'srlQ'
+p1685
+aa(lp1686
+g95
+aS'predicted phosphosugar-binding protein'
+p1687
+aa(lp1688
+asS'b2411'
+p1689
+(lp1690
+(lp1691
+S'lop'
+p1692
+aS'lig'
+p1693
+aS'pdeC'
+p1694
+aS'ligA'
+p1695
+aS'dnaL'
+p1696
+aa(lp1697
+S'NAD-dependent DNA ligase LigA'
+p1698
+aS'DNA ligase, NAD(+)-dependent'
+p1699
+aa(lp1700
+S'6.5.1.2'
+p1701
+aasS'b4383'
+p1702
+(lp1703
+(lp1704
+S'thyR'
+p1705
+aS'deoB'
+p1706
+ag1702
+aS'drm'
+p1707
+aS'tlr'
+p1708
+aa(lp1709
+S'phosphopentomutase'
+p1710
+aa(lp1711
+S'5.4.2.7'
+p1712
+aasS'b1478'
+p1713
+(lp1714
+(lp1715
+S'yddN'
+p1716
+aS'adhP'
+p1717
+aa(lp1718
+S'alcohol dehydrogenase, 1-propanol preferring'
+p1719
+aS'ethanol-active dehydrogenase/acetaldehyde-active reductase'
+p1720
+aS'alcohol dehydrogenase'
+p1721
+aa(lp1722
+g860
+aasS'b2280'
+p1723
+(lp1724
+(lp1725
+S'nuoJ'
+p1726
+aa(lp1727
+S'NADH-ubiquinone oxidoreductase subunit J'
+p1728
+aS'NADH:ubiquinone oxidoreductase, membrane subunit J'
+p1729
+aa(lp1730
+asS'b3781'
+p1731
+(lp1732
+(lp1733
+S'tsnC'
+p1734
+aS'fip'
+p1735
+aS'trxA'
+p1736
+aS'dasC'
+p1737
+aS'fipA'
+p1738
+aa(lp1739
+S'thioredoxin 1'
+p1740
+aS'thioredoxin'
+p1741
+aa(lp1742
+asS'b2507'
+p1743
+(lp1744
+(lp1745
+S'guaA'
+p1746
+aa(lp1747
+S'GMP synthetase'
+p1748
+aS'GMP synthetase (glutamine aminotransferase)'
+p1749
+aS'GMP synthase'
+p1750
+aa(lp1751
+S'6.3.4.1'
+p1752
+aasS'b0680'
+p1753
+(lp1754
+(lp1755
+S'glnS'
+p1756
+aa(lp1757
+S'glutamyl-tRNA synthetase'
+p1758
+aS'glutaminyl-tRNA synthetase'
+p1759
+aa(lp1760
+S'6.1.1.18'
+p1761
+aasS'b0048'
+p1762
+(lp1763
+(lp1764
+S'folA'
+p1765
+aS'tmrA'
+p1766
+aa(lp1767
+S'dihydrofolate reductase'
+p1768
+aa(lp1769
+g451
+aasS'b0684'
+p1770
+(lp1771
+(lp1772
+S'fldA'
+p1773
+aa(lp1774
+S'flavodoxin 1'
+p1775
+aS'flavodoxin'
+p1776
+aa(lp1777
+asS'b4177'
+p1778
+(lp1779
+(lp1780
+S'purA'
+p1781
+aa(lp1782
+S'adenylosuccinate synthetase'
+p1783
+aa(lp1784
+S'6.3.4.4'
+p1785
+aasS'b1779'
+p1786
+(lp1787
+(lp1788
+S'gapA'
+p1789
+aa(lp1790
+S'glyceraldehyde-3-phosphate dehydrogenase'
+p1791
+aS'glyceraldehyde-3-phosphate dehydrogenase A'
+p1792
+aa(lp1793
+S'1.2.1.12'
+p1794
+aasS'b3734'
+p1795
+(lp1796
+(lp1797
+S'atpA'
+p1798
+aS'papA'
+p1799
+aS'uncA'
+p1800
+aa(lp1801
+S'F1 sector of membrane-bound ATP synthase, alpha subunit'
+p1802
+aS'ATP synthase subunit alpha'
+p1803
+aa(lp1804
+g240
+aasS'b3772'
+p1805
+(lp1806
+(lp1807
+S'ilvA'
+p1808
+aa(lp1809
+S'threonine deaminase'
+p1810
+aS'threonine dehydratase'
+p1811
+aS'L-threonine dehydratase, biosynthetic; also known as threonine deaminase'
+p1812
+aa(lp1813
+g638
+aasS'b0031'
+p1814
+(lp1815
+(lp1816
+S'dapB'
+p1817
+ag1814
+aa(lp1818
+S'dihydrodipicolinate reductase'
+p1819
+aa(lp1820
+S'1.17.1.8'
+p1821
+aS'1.3.1.26'
+p1822
+aasS'b2096'
+p1823
+(lp1824
+(lp1825
+S'gatY'
+p1826
+aS'yegF'
+p1827
+aa(lp1828
+S'D-tagatose 1,6-bisphosphate aldolase 2, catalytic subunit'
+p1829
+aS'tagatose-bisphosphate aldolase'
+p1830
+aa(lp1831
+g1453
+aasS'b2097'
+p1832
+(lp1833
+(lp1834
+S'dhnA'
+p1835
+aS'fbaB'
+p1836
+aa(lp1837
+S'fructose-bisphosphate aldolase class I'
+p1838
+aS'fructose-bisphosphate aldolase class 1'
+p1839
+aa(lp1840
+g261
+aasS'b0521'
+p1841
+(lp1842
+(lp1843
+S'ybcF'
+p1844
+aS'arcC'
+p1845
+aa(lp1846
+S'carbamate kinase'
+p1847
+aS'putative carbonate kinase'
+p1848
+aS'predicted carbamate kinase'
+p1849
+aa(lp1850
+asS'b3389'
+p1851
+(lp1852
+(lp1853
+S'aroB'
+p1854
+aa(lp1855
+S'3-dehydroquinate synthase'
+p1856
+aa(lp1857
+S'4.2.3.4'
+p1858
+aasS'b2251'
+p1859
+(lp1860
+(lp1861
+S'yfaO'
+p1862
+aS'nudI'
+p1863
+aa(lp1864
+S'nucleoside triphosphatase'
+p1865
+aS'predicted NUDIX hydrolase'
+p1866
+aS'putative NUDIX hydrolase'
+p1867
+aa(lp1868
+asS'b1611'
+p1869
+(lp1870
+(lp1871
+S'fumC'
+p1872
+aa(lp1873
+S'fumarate hydratase'
+p1874
+aS'fumarate hydratase (fumarase C),aerobic Class II'
+p1875
+aa(lp1876
+S'4.2.1.2'
+p1877
+aasS'b2284'
+p1878
+(lp1879
+(lp1880
+S'nuoB'
+p1881
+aS'nuoF'
+p1882
+aa(lp1883
+S'NADH dehydrogenase I subunit F'
+p1884
+aS'NADH:ubiquinone oxidoreductase, chain F'
+p1885
+aa(lp1886
+S'1.6.5.3'
+p1887
+aasS'b1768'
+p1888
+(lp1889
+(lp1890
+S'ydjB'
+p1891
+aS'pncA'
+p1892
+aS'nam'
+p1893
+aa(lp1894
+S'nicotinamidase/pyrazinamidase'
+p1895
+aa(lp1896
+S'3.5.1.-'
+p1897
+aasS'b1866'
+p1898
+(lp1899
+(lp1900
+S'tls'
+p1901
+aS'aspS'
+p1902
+aa(lp1903
+S'aspartyl-tRNA synthetase'
+p1904
+aa(lp1905
+S'6.1.1.12'
+p1906
+aasS'b3779'
+p1907
+(lp1908
+(lp1909
+S'gppA'
+p1910
+aS'gpp'
+p1911
+aa(lp1912
+S'guanosine pentaphosphate phosphohydrolase'
+p1913
+aS'guanosine pentaphosphatase/exopolyphosphatase'
+p1914
+aa(lp1915
+g1105
+aasS'b0849'
+p1916
+(lp1917
+(lp1918
+S'grxA'
+p1919
+aS'grx'
+p1920
+aa(lp1921
+S'glutaredoxin 1, redox coenzyme for ribonucleotide reductase (RNR1a)'
+p1922
+aS'glutaredoxin'
+p1923
+aS'glutaredoxin 1, redox coenzyme for ribonucleotide reductase'
+p1924
+aa(lp1925
+asS'b2114'
+p1926
+(lp1927
+(lp1928
+S'metG'
+p1929
+aa(lp1930
+S'methionyl-tRNA synthetase'
+p1931
+aa(lp1932
+S'6.1.1.10'
+p1933
+aasS'b0910'
+p1934
+(lp1935
+(lp1936
+S'mssA'
+p1937
+aS'ycaF'
+p1938
+aS'cmk'
+p1939
+aS'ycaG'
+p1940
+aa(lp1941
+S'cytidylate kinase'
+p1942
+aa(lp1943
+S'2.7.4.14'
+p1944
+aasS'b3564'
+p1945
+(lp1946
+(lp1947
+S'xylB'
+p1948
+aa(lp1949
+S'xylulokinase'
+p1950
+aa(lp1951
+S'2.7.1.17'
+p1952
+aasS'b3770'
+p1953
+(lp1954
+(lp1955
+S'ilvE'
+p1956
+aa(lp1957
+S'branched-chain amino-acid aminotransferase'
+p1958
+aS'branched-chain amino acid aminotransferase'
+p1959
+aa(lp1960
+S'2.6.1.42'
+p1961
+aasS'b3771'
+p1962
+(lp1963
+(lp1964
+S'ilvD'
+p1965
+aa(lp1966
+S'dihydroxyacid dehydratase'
+p1967
+aS'dihydroxy-acid dehydratase'
+p1968
+aa(lp1969
+S'4.2.1.9'
+p1970
+aasS'b2797'
+p1971
+(lp1972
+(lp1973
+S'sdaB'
+p1974
+aa(lp1975
+S'L-serine deaminase II'
+p1976
+aS'L-serine dehydratase 2'
+p1977
+aa(lp1978
+g552
+aasS'b0918'
+p1979
+(lp1980
+(lp1981
+S'kdsB'
+p1982
+aa(lp1983
+S'3-deoxy-manno-octulosonate cytidylyltransferase'
+p1984
+aa(lp1985
+S'2.7.7.38'
+p1986
+aasS'b0171'
+p1987
+(lp1988
+(lp1989
+S'smbA'
+p1990
+aS'umk'
+p1991
+aS'pyrH'
+p1992
+aa(lp1993
+S'uridylate kinase'
+p1994
+aS'UMP kinase'
+p1995
+aa(lp1996
+S'2.7.4.-'
+p1997
+aasS'b0356'
+p1998
+(lp1999
+(lp2000
+g853
+aS'frmA'
+p2001
+aa(lp2002
+S'alcohol dehydrogenase classIII/glutathione-dependent formaldehyde dehydrogenase'
+p2003
+aS'alcohol dehydrogenase class III/glutathione-dependent formaldehyde dehydrogenase'
+p2004
+aa(lp2005
+g860
+aasS'b4122'
+p2006
+(lp2007
+(lp2008
+S'fumB'
+p2009
+aa(lp2010
+S'anaerobic class I fumarate hydratase (fumaraseB)'
+p2011
+aS'anaerobic class I fumarate hydratase'
+p2012
+aS'anaerobic class I fumarate hydratase (fumarase B)'
+p2013
+aa(lp2014
+g1877
+aasS'b0421'
+p2015
+(lp2016
+(lp2017
+S'ispA'
+p2018
+aa(lp2019
+S'geranyltranstransferase'
+p2020
+aa(lp2021
+S'2.5.1.1'
+p2022
+aasS'b0118'
+p2023
+(lp2024
+(lp2025
+S'yacJ'
+p2026
+aS'yacI'
+p2027
+aS'acnB'
+p2028
+aa(lp2029
+S'bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase'
+p2030
+aS'bifunctional aconitate hydratase2/2-methylisocitrate dehydratase'
+p2031
+aa(lp2032
+g1215
+aasS'b3956'
+p2033
+(lp2034
+(lp2035
+S'ppc'
+p2036
+aS'asp'
+p2037
+aS'glu'
+p2038
+aa(lp2039
+S'phosphoenolpyruvate carboxylase'
+p2040
+aa(lp2041
+S'4.1.1.31'
+p2042
+aasS'b3957'
+p2043
+(lp2044
+(lp2045
+S'argA'
+p2046
+aS'Arg4'
+p2047
+ag1373
+aa(lp2048
+S'acetylornithine deacetylase'
+p2049
+aa(lp2050
+S'3.5.1.16'
+p2051
+aasS'b4129'
+p2052
+(lp2053
+(lp2054
+S'lysU'
+p2055
+aa(lp2056
+S'lysine tRNA synthetase, inducible'
+p2057
+aS'lysyl-tRNA synthetase'
+p2058
+aa(lp2059
+S'6.1.1.6'
+p2060
+aasS'b1064'
+p2061
+(lp2062
+(lp2063
+S'grxB'
+p2064
+aa(lp2065
+S'glutaredoxin 2'
+p2066
+aS'glutaredoxin 2 (Grx2)'
+p2067
+aS'glutaredoxin-2'
+p2068
+aa(lp2069
+asS'b1215'
+p2070
+(lp2071
+(lp2072
+S'kdsA'
+p2073
+aa(lp2074
+S'2-dehydro-3-deoxyphosphooctonate aldolase'
+p2075
+aS'3-deoxy-D-manno-octulosonate 8-phosphate synthase'
+p2076
+aa(lp2077
+S'2.5.1.55'
+p2078
+aasS'b0756'
+p2079
+(lp2080
+(lp2081
+S'galM'
+p2082
+aa(lp2083
+S'aldose 1-epimerase; type-1 mutarotase'
+p2084
+aS'aldose 1-epimerase'
+p2085
+aS'galactose-1-epimerase'
+p2086
+aa(lp2087
+S'5.1.3.3'
+p2088
+aasS'b0755'
+p2089
+(lp2090
+(lp2091
+S'gpm'
+p2092
+aS'gpmA'
+p2093
+aa(lp2094
+S'phosphoglyceromutase 1'
+p2095
+aS'phosphoglyceromutase'
+p2096
+aa(lp2097
+g482
+aasS'b1207'
+p2098
+(lp2099
+(lp2100
+S'prsA'
+p2101
+aS'dnaR'
+p2102
+aS'prs'
+p2103
+aa(lp2104
+S'ribose-phosphate pyrophosphokinase'
+p2105
+aS'phosphoribosylpyrophosphate synthase'
+p2106
+aa(lp2107
+S'2.7.6.1'
+p2108
+aasS'b1468'
+p2109
+(lp2110
+(lp2111
+S'chlZ'
+p2112
+aS'narZ'
+p2113
+aa(lp2114
+S'nitrate reductase 2 (NRZ), alpha subunit'
+p2115
+aa(lp2116
+g697
+aasS'b1740'
+p2117
+(lp2118
+(lp2119
+S'ntrL'
+p2120
+aS'nadE'
+p2121
+aS'efg'
+p2122
+aa(lp2123
+S'NAD synthetase, NH3/glutamine-dependent'
+p2124
+aS'NAD synthetase'
+p2125
+aa(lp2126
+S'6.3.5.1'
+p2127
+aasS'b0212'
+p2128
+(lp2129
+(lp2130
+S'gloB'
+p2131
+aS'yafR'
+p2132
+aa(lp2133
+S'hydroxyacylglutathione hydrolase'
+p2134
+aS'predicted hydroxyacylglutathione hydrolase'
+p2135
+aa(lp2136
+asS'b0474'
+p2137
+(lp2138
+(lp2139
+S'plsA'
+p2140
+aS'adk'
+p2141
+aS'dnaW'
+p2142
+aa(lp2143
+S'adenylate kinase'
+p2144
+aa(lp2145
+S'2.7.4.3'
+p2146
+aasS'b2599'
+p2147
+(lp2148
+(lp2149
+S'pheA'
+p2150
+aa(lp2151
+S'bifunctional chorismate mutase/prephenatede hydratase'
+p2152
+aS'fused chorismate mutase P/prephenate dehydratase'
+p2153
+aS'chorismate mutase and prephenate dehydratase, P-protein'
+p2154
+aa(lp2155
+S'4.2.1.51'
+p2156
+aasS'b4258'
+p2157
+(lp2158
+(lp2159
+S'valS'
+p2160
+aS'val-act'
+p2161
+aa(lp2162
+S'valyl-tRNA synthetase'
+p2163
+aa(lp2164
+S'6.1.1.9'
+p2165
+aasS'b0693'
+p2166
+(lp2167
+(lp2168
+S'speF'
+p2169
+aa(lp2170
+S'ornithine decarboxylase isozyme, inducible'
+p2171
+ag1000
+aa(lp2172
+g1003
+aasS'b1748'
+p2173
+(lp2174
+(lp2175
+S'cstC'
+p2176
+aS'astC'
+p2177
+aS'argM'
+p2178
+aS'ydjW'
+p2179
+aa(lp2180
+S'bifunctional succinylornithinetransaminase/acetylornithine transaminase'
+p2181
+aS'succinylornithine transaminase, PLP-dependent'
+p2182
+aa(lp2183
+S'2.6.1.11'
+p2184
+aasS'b1466'
+p2185
+(lp2186
+(lp2187
+S'narW'
+p2188
+ag2112
+aa(lp2189
+S'nitrate reductase 2 (NRZ), delta subunit'
+p2190
+aS'nitrate reductase 2 (NRZ), delta subunit (assembly subunit)'
+p2191
+aS'nitrate reductase'
+p2192
+aa(lp2193
+g697
+aasS'b1467'
+p2194
+(lp2195
+(lp2196
+g2112
+aS'narY'
+p2197
+aa(lp2198
+S'nitrate reductase 2 (NRZ), beta subunit'
+p2199
+aa(lp2200
+g697
+aasS'b1465'
+p2201
+(lp2202
+(lp2203
+g2112
+aS'narV'
+p2204
+aa(lp2205
+S'nitrate reductase 2 (NRZ), gamma subunit'
+p2206
+aS'nitrate reductase 2 subunit gamma'
+p2207
+aa(lp2208
+g697
+aasS'b0186'
+p2209
+(lp2210
+(lp2211
+S'ldc'
+p2212
+aS'ldcH'
+p2213
+aS'ldcC'
+p2214
+aS'LDC2'
+p2215
+aa(lp2216
+S'lysine decarboxylase 2, constitutive'
+p2217
+aa(lp2218
+g1622
+aasS'b3708'
+p2219
+(lp2220
+(lp2221
+S'tnaA'
+p2222
+aS'ind'
+p2223
+aa(lp2224
+g2222
+aS'tryptophanase/L-cysteine desulfhydrase, PLP-dependent'
+p2225
+aa(lp2226
+S'4.1.99.1'
+p2227
+aasS'b0594'
+p2228
+(lp2229
+(lp2230
+S'entE'
+p2231
+aa(lp2232
+S'2,3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex'
+p2233
+aS'enterobactin synthase subunit E'
+p2234
+aa(lp2235
+S'2.7.7.58'
+p2236
+aasS'b3610'
+p2237
+(lp2238
+(lp2239
+S'grxC'
+p2240
+aS'yibM'
+p2241
+aa(lp2242
+S'glutaredoxin 3'
+p2243
+aS'glutaredoxin-3'
+p2244
+aa(lp2245
+asS'b2465'
+p2246
+(lp2247
+(lp2248
+S'tktB'
+p2249
+aa(lp2250
+g936
+aS'transketolase 2, thiamine triphosphate-binding'
+p2251
+aS'transketolase 2, thiamin-binding'
+p2252
+aa(lp2253
+g940
+aasS'b2890'
+p2254
+(lp2255
+(lp2256
+S'herC'
+p2257
+aS'lysS'
+p2258
+aS'asuD'
+p2259
+aa(lp2260
+S'lysine tRNA synthetase, constitutive'
+p2261
+ag2058
+aa(lp2262
+g2060
+aasS'b0063'
+p2263
+(lp2264
+(lp2265
+S'araB'
+p2266
+aa(lp2267
+S'L-ribulokinase'
+p2268
+aa(lp2269
+S'2.7.1.16'
+p2270
+aasS'b2895'
+p2271
+(lp2272
+(lp2273
+S'fldB'
+p2274
+aa(lp2275
+S'flavodoxin 2'
+p2276
+aS'flavodoxin-2'
+p2277
+aa(lp2278
+asS'b0907'
+p2279
+(lp2280
+(lp2281
+S'pdxC'
+p2282
+aS'serC'
+p2283
+aS'pdxF'
+p2284
+aa(lp2285
+S'phosphoserine aminotransferase'
+p2286
+aS'3-phosphoserine/phosphohydroxythreonine aminotransferase'
+p2287
+aa(lp2288
+S'2.6.1.52'
+p2289
+aasS'b1851'
+p2290
+(lp2291
+(lp2292
+S'edd'
+p2293
+aa(lp2294
+S'6-phosphogluconate dehydratase'
+p2295
+aS'phosphogluconate dehydratase'
+p2296
+aa(lp2297
+S'4.2.1.12'
+p2298
+aasS'b2868'
+p2299
+(lp2300
+(lp2301
+S'ygeU'
+p2302
+aS'xdhC'
+p2303
+aa(lp2304
+S'xanthine dehydrogenase iron-sulfur-binding subunit'
+p2305
+aS'xanthine dehydrogenase, Fe-S binding subunit'
+p2306
+aa(lp2307
+asS'b2021'
+p2308
+(lp2309
+(lp2310
+S'hisC'
+p2311
+aa(lp2312
+S'histidinol-phosphate aminotransferase'
+p2313
+aa(lp2314
+S'2.6.1.9'
+p2315
+aasS'b1854'
+p2316
+(lp2317
+(lp2318
+S'pykA'
+p2319
+aa(lp2320
+S'pyruvate kinase II'
+p2321
+aa(lp2322
+g1312
+aasS'b1912'
+p2323
+(lp2324
+(lp2325
+S'pgsA'
+p2326
+aa(lp2327
+S'phosphatidylglycerophosphate synthetase'
+p2328
+aS'CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase'
+p2329
+aa(lp2330
+S'2.7.8.5'
+p2331
+aasS'b2224'
+p2332
+(lp2333
+(lp2334
+S'atoB'
+p2335
+aa(lp2336
+S'acetyl-CoA acetyltransferase'
+p2337
+aa(lp2338
+S'2.3.1.9'
+p2339
+aasS'b2600'
+p2340
+(lp2341
+(lp2342
+S'tyrA'
+p2343
+aa(lp2344
+S'fused chorismate mutase T/prephenate dehydrogenase'
+p2345
+aS'bifunctional chorismate mutase/prephenatede hydrogenase'
+p2346
+aa(lp2347
+S'1.3.1.12'
+p2348
+aasS'b2551'
+p2349
+(lp2350
+(lp2351
+S'glyA'
+p2352
+aa(lp2353
+S'serine hydroxymethyltransferase'
+p2354
+aa(lp2355
+S'2.1.2.1'
+p2356
+aasS'b2283'
+p2357
+(lp2358
+(lp2359
+S'nuoG'
+p2360
+aa(lp2361
+S'NADH:ubiquinone oxidoreductase subunit G'
+p2362
+aS'NADH:ubiquinone oxidoreductase, chain G'
+p2363
+aa(lp2364
+g1887
+aasS'b2282'
+p2365
+(lp2366
+(lp2367
+S'nuoH'
+p2368
+aa(lp2369
+S'NADH-quinone oxidoreductase subunit H'
+p2370
+aS'NADH:ubiquinone oxidoreductase, membrane subunit H'
+p2371
+aa(lp2372
+asS'b2281'
+p2373
+(lp2374
+(lp2375
+S'nuoI'
+p2376
+aa(lp2377
+S'NADH:ubiquinone oxidoreductase, chain I'
+p2378
+aS'NADH-quinone oxidoreductase subunit I'
+p2379
+aa(lp2380
+g1887
+aasS'b3430'
+p2381
+(lp2382
+(lp2383
+S'glgC'
+p2384
+aa(lp2385
+S'glucose-1-phosphate adenylyltransferase'
+p2386
+aa(lp2387
+S'2.7.7.27'
+p2388
+aasS'b2287'
+p2389
+(lp2390
+(lp2391
+g1881
+aa(lp2392
+S'NADH:ubiquinone oxidoreductase, chain B'
+p2393
+aS'NADH-quinone oxidoreductase subunit B'
+p2394
+aa(lp2395
+g1887
+aasS'b2286'
+p2396
+(lp2397
+(lp2398
+S'nuoC'
+p2399
+aS'nuoD'
+p2400
+aS'nuoCD'
+p2401
+aa(lp2402
+S'NADH:ubiquinone oxidoreductase, chain C,D'
+p2403
+aS'NADH:ubiquinone oxidoreductase, fused CD subunit'
+p2404
+aS'NADH:ubiquinone oxidoreductase subunit C, D'
+p2405
+aa(lp2406
+g1887
+aasS'b2942'
+p2407
+(lp2408
+(lp2409
+S'metK'
+p2410
+aS'metX'
+p2411
+aa(lp2412
+S'methionine adenosyltransferase 1'
+p2413
+aS'S-adenosylmethionine synthetase'
+p2414
+aa(lp2415
+S'2.5.1.6'
+p2416
+aasS'b0109'
+p2417
+(lp2418
+(lp2419
+S'nadC'
+p2420
+aa(lp2421
+S'quinolinate phosphoribosyltransferase'
+p2422
+aa(lp2423
+S'2.4.2.19'
+p2424
+aasS'b2827'
+p2425
+(lp2426
+(lp2427
+S'thyA'
+p2428
+aa(lp2429
+S'thymidylate synthase'
+p2430
+aS'thymidylate synthetase'
+p2431
+aa(lp2432
+S'2.1.1.45'
+p2433
+aasS'b0104'
+p2434
+(lp2435
+(lp2436
+S'guaC'
+p2437
+aa(lp2438
+S'GMP reductase'
+p2439
+aa(lp2440
+S'1.7.1.7'
+p2441
+aasS'b2288'
+p2442
+(lp2443
+(lp2444
+g1015
+aa(lp2445
+S'NADH-quinone oxidoreductase subunit A'
+p2446
+aS'NADH:ubiquinone oxidoreductase, membrane subunit A'
+p2447
+aa(lp2448
+asS'b2810'
+p2449
+(lp2450
+(lp2451
+S'csdA'
+p2452
+aS'ygdJ'
+p2453
+aa(lp2454
+S'cysteine sulfinate desulfinase'
+p2455
+aa(lp2456
+S'4.4.1.-'
+p2457
+aasS'b3670'
+p2458
+(lp2459
+(lp2460
+S'ilvN'
+p2461
+aa(lp2462
+S'acetolactate synthase isozyme 1 small subunit'
+p2463
+aS'acetolactate synthase I, small subunit'
+p2464
+aS'acetolactate synthase 1 small subunit'
+p2465
+aa(lp2466
+g1294
+aasS'b1613'
+p2467
+(lp2468
+(lp2469
+S'manA'
+p2470
+aS'pmi'
+p2471
+aa(lp2472
+S'mannose-6-phosphate isomerase'
+p2473
+aa(lp2474
+S'5.3.1.8'
+p2475
+aasS'b1612'
+p2476
+(lp2477
+(lp2478
+S'fumA'
+p2479
+aa(lp2480
+S'fumarate hydratase class I'
+p2481
+aS'fumarate hydratase (fumarase A), aerobic Class I'
+p2482
+aS'aerobic Class I fumarate hydratase'
+p2483
+aa(lp2484
+g1877
+aasS'b0086'
+p2485
+(lp2486
+(lp2487
+S'mra'
+p2488
+aS'murF'
+p2489
+aa(lp2490
+S'UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase'
+p2491
+aS'UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase'
+p2492
+aa(lp2493
+S'6.3.2.10'
+p2494
+aasS'b0221'
+p2495
+(lp2496
+(lp2497
+S'yafH'
+p2498
+aS'fadF'
+p2499
+aS'fadE'
+p2500
+aa(lp2501
+S'acyl coenzyme A dehydrogenase'
+p2502
+aS'acyl-CoA dehydrogenase'
+p2503
+aa(lp2504
+S'1.3.99.-'
+p2505
+aasS'b3809'
+p2506
+(lp2507
+(lp2508
+S'dapF'
+p2509
+aa(lp2510
+S'diaminopimelate epimerase'
+p2511
+aa(lp2512
+S'5.1.1.7'
+p2513
+aasS'b0182'
+p2514
+(lp2515
+(lp2516
+S'lpxB'
+p2517
+aS'pgsB'
+p2518
+aa(lp2519
+S'tetraacyldisaccharide-1-P synthase'
+p2520
+aS'lipid-A-disaccharide synthase'
+p2521
+aa(lp2522
+S'2.4.1.182'
+p2523
+aasS'b2285'
+p2524
+(lp2525
+(lp2526
+S'nuoE'
+p2527
+aa(lp2528
+S'NADH:ubiquinone oxidoreductase, chain E'
+p2529
+aS'NADH dehydrogenase subunit E'
+p2530
+aa(lp2531
+g1887
+aasS'b1692'
+p2532
+(lp2533
+(lp2534
+S'ydiB'
+p2535
+aa(lp2536
+S'quinate/shikimate dehydrogenase'
+p2537
+aS'quinate/shikimate 5-dehydrogenase, NAD(P)-binding'
+p2538
+aa(lp2539
+g1038
+aasS'b4014'
+p2540
+(lp2541
+(lp2542
+S'aceB'
+p2543
+aS'mas'
+p2544
+aa(lp2545
+S'malate synthase A'
+p2546
+aa(lp2547
+g1341
+aasS'b3803'
+p2548
+(lp2549
+(lp2550
+S'hemX'
+p2551
+aa(lp2552
+S'putative uroporphyrinogen IIIC-methyltransferase'
+p2553
+aS'putative uroporphyrinogen III methyltransferase'
+p2554
+aS'uroporphyrinogen III methylase'
+p2555
+aa(lp2556
+S'2.1.1.107'
+p2557
+aasS'b1190'
+p2558
+(lp2559
+(lp2560
+S'dadB'
+p2561
+aS'msuA?'
+p2562
+aS'dadX'
+p2563
+aS'alnB'
+p2564
+aa(lp2565
+S'alanine racemase, catabolic, PLP-binding'
+p2566
+aS'alanine racemase 2, PLP-binding'
+p2567
+aS'alanine racemase'
+p2568
+aa(lp2569
+S'5.1.1.1'
+p2570
+aasS'b0025'
+p2571
+(lp2572
+(lp2573
+S'yaaC'
+p2574
+ag2571
+aS'ribC'
+p2575
+aS'ribF'
+p2576
+aa(lp2577
+S'bifunctional riboflavin kinase/FAD synthetase'
+p2578
+aS'bifunctional riboflavin kinase/FMN adenylyltransferase'
+p2579
+aa(lp2580
+S'2.7.1.26'
+p2581
+aasS'b1197'
+p2582
+(lp2583
+(lp2584
+S'treA'
+p2585
+aS'osmA'
+p2586
+aa(lp2587
+S'periplasmic trehalase'
+p2588
+aS'trehalase'
+p2589
+aa(lp2590
+g1062
+aasS'b3967'
+p2591
+(lp2592
+(lp2593
+S'murI'
+p2594
+aS'glr'
+p2595
+aS'dga'
+p2596
+aS'yijA'
+p2597
+aa(lp2598
+S'glutamate synthase'
+p2599
+aS'glutamate racemase'
+p2600
+aa(lp2601
+S'5.1.1.3'
+p2602
+aasS'b0026'
+p2603
+(lp2604
+(lp2605
+S'ilvS'
+p2606
+aS'ileS'
+p2607
+aa(lp2608
+S'isoleucyl-tRNA synthetase'
+p2609
+aa(lp2610
+S'6.1.1.5'
+p2611
+aasS'b2296'
+p2612
+(lp2613
+(lp2614
+S'ackA'
+p2615
+aa(lp2616
+S'acetate kinase A and propionate kinase 2'
+p2617
+aS'acetate kinase'
+p2618
+aa(lp2619
+S'2.7.2.-'
+p2620
+aasS'b1651'
+p2621
+(lp2622
+(lp2623
+S'gloA'
+p2624
+aa(lp2625
+S'glyoxalase I, Ni-dependent'
+p2626
+aS'lactoylglutathione lyase'
+p2627
+aa(lp2628
+S'4.4.1.5'
+p2629
+aasS'b0822'
+p2630
+(lp2631
+(lp2632
+S'supH'
+p2633
+aS'ybiV'
+p2634
+aa(lp2635
+g8
+aS'putative hydrolase'
+p2636
+aS'sugar phosphatase; preference for fructose-1-P, ribose-5-P and glucose-6-P'
+p2637
+aa(lp2638
+asS'b0688'
+p2639
+(lp2640
+(lp2641
+g1587
+aS'pgm'
+p2642
+aS'pgmA'
+p2643
+aa(lp2644
+S'phosphoglucomutase'
+p2645
+aa(lp2646
+S'5.4.2.2'
+p2647
+aasS'b0351'
+p2648
+(lp2649
+(lp2650
+S'mhpF'
+p2651
+aa(lp2652
+S'acetaldehyde dehydrogenase'
+p2653
+aS'acetaldehyde-CoA dehydrogenase II, NAD-binding'
+p2654
+aa(lp2655
+S'1.2.1.10'
+p2656
+aasS'b0828'
+p2657
+(lp2658
+(lp2659
+S'iaaA'
+p2660
+aS'ybiK'
+p2661
+aS'spt'
+p2662
+aa(lp2663
+S'Isoaspartyl peptidase'
+p2664
+aS'L-asparaginase'
+p2665
+aa(lp2666
+g1304
+aasS'b3008'
+p2667
+(lp2668
+(lp2669
+S'metC'
+p2670
+aa(lp2671
+S'cystathionine beta-lyase'
+p2672
+aS'cystathionine beta-lyase, PLP-dependent'
+p2673
+aa(lp2674
+S'4.4.1.8'
+p2675
+aasS'b0968'
+p2676
+(lp2677
+(lp2678
+S'yccX'
+p2679
+aa(lp2680
+S'acylphosphatase'
+p2681
+aS'predicted acylphosphatase'
+p2682
+aS'weak acylphosphatase'
+p2683
+aa(lp2684
+S'3.6.1.7'
+p2685
+aasS'b0932'
+p2686
+(lp2687
+(lp2688
+S'pepN'
+p2689
+aa(lp2690
+S'aminopeptidase N'
+p2691
+aa(lp2692
+S'3.4.11.2'
+p2693
+aasS'b0931'
+p2694
+(lp2695
+(lp2696
+S'pncB'
+p2697
+aa(lp2698
+S'nicotinate phosphoribosyltransferase'
+p2699
+aa(lp2700
+S'6.3.4.21'
+p2701
+aasS'b1745'
+p2702
+(lp2703
+(lp2704
+S'astB'
+p2705
+aS'ydjT'
+p2706
+aa(lp2707
+S'succinylarginine dihydrolase'
+p2708
+aa(lp2709
+S'3.5.3.-'
+p2710
+aasS'b1849'
+p2711
+(lp2712
+(lp2713
+S'purT'
+p2714
+aa(lp2715
+S'phosphoribosylglycinamide formyltransferase 2'
+p2716
+aa(lp2717
+S'2.7.2.1'
+p2718
+aasS'b2036'
+p2719
+(lp2720
+(lp2721
+S'yefE'
+p2722
+aS'glf'
+p2723
+aa(lp2724
+S'UDP-galactopyranose mutase, FAD/NAD(P)-binding'
+p2725
+aa(lp2726
+S'5.4.99.9'
+p2727
+aasS'b3553'
+p2728
+(lp2729
+(lp2730
+S'tkrA'
+p2731
+aS'ghrB'
+p2732
+aS'tiaE'
+p2733
+aS'yiaE'
+p2734
+aa(lp2735
+S'glyoxylate/hydroxypyruvate reductase B'
+p2736
+aS'2-keto-D-gluconate reductase'
+p2737
+aa(lp2738
+S'1.1.1.215'
+p2739
+aasS'b1109'
+p2740
+(lp2741
+(lp2742
+S'ndh'
+p2743
+aa(lp2744
+S'respiratory NADH dehydrogenase 2/cupric reductase'
+p2745
+aS'NADH dehydrogenase'
+p2746
+aa(lp2747
+S'1.16.1.-'
+p2748
+aasS'b3124'
+p2749
+(lp2750
+(lp2751
+S'yhaD'
+p2752
+aS'garK'
+p2753
+aa(lp2754
+S'glycerate kinase I'
+p2755
+ag1678
+aa(lp2756
+S'2.7.1.165'
+p2757
+aasS'b2234'
+p2758
+(lp2759
+(lp2760
+S'nrdA'
+p2761
+aS'dnaF'
+p2762
+aa(lp2763
+S'ribonucleotide-diphosphate reductase subunit alpha'
+p2764
+aS'ribonucleoside diphosphate reductase 1, alpha subunit'
+p2765
+aS'ribonucleoside-diphosphate reductase 1, alpha subunit'
+p2766
+aa(lp2767
+S'1.17.4.1'
+p2768
+aasS'b2235'
+p2769
+(lp2770
+(lp2771
+S'nrdB'
+p2772
+aS'ftsB'
+p2773
+aa(lp2774
+S'ribonucleoside diphosphate reductase 1, beta subunit, ferritin-like'
+p2775
+aS'ribonucleoside-diphosphate reductase 1, beta subunit, ferritin-like protein'
+p2776
+aS'ribonucleotide-diphosphate reductase subunit beta'
+p2777
+aa(lp2778
+g2768
+aasS'b1654'
+p2779
+(lp2780
+(lp2781
+S'ydhD'
+p2782
+aS'grxD'
+p2783
+aa(lp2784
+S'glutaredoxin-4'
+p2785
+ag396
+aa(lp2786
+asS'b2838'
+p2787
+(lp2788
+(lp2789
+S'lysA'
+p2790
+aa(lp2791
+S'diaminopimelate decarboxylase, PLP-binding'
+p2792
+aS'diaminopimelate decarboxylase'
+p2793
+aa(lp2794
+S'4.1.1.20'
+p2795
+aasS'b3182'
+p2796
+(lp2797
+(lp2798
+S'dacB'
+p2799
+aa(lp2800
+g367
+aa(lp2801
+g369
+aasS'b2914'
+p2802
+(lp2803
+(lp2804
+S'ygfC'
+p2805
+aS'rpiA'
+p2806
+aa(lp2807
+S'ribosephosphate isomerase, constitutive'
+p2808
+aS'ribose-5-phosphate isomerase A'
+p2809
+aS'ribose 5-phosphate isomerase, constitutive'
+p2810
+aa(lp2811
+S'5.3.1.6'
+p2812
+aasS'b3428'
+p2813
+(lp2814
+(lp2815
+S'glgP'
+p2816
+aS'glgY'
+p2817
+aa(lp2818
+S'glycogen phosphorylase'
+p2819
+aa(lp2820
+g1593
+aasS'b3359'
+p2821
+(lp2822
+(lp2823
+S'alaB'
+p2824
+aS'Arg1'
+p2825
+aS'dapC'
+p2826
+aS'argD'
+p2827
+aS'dtu'
+p2828
+ag1375
+aa(lp2829
+S'acetylornithine transaminase'
+p2830
+aS'bifunctional acetylornithine aminotransferase/ succinyldiaminopimelate aminotransferase'
+p2831
+aS'bifunctional acetylornithine aminotransferase/succinyldiaminopimelate aminotransferase'
+p2832
+aa(lp2833
+g2184
+aasS'b2661'
+p2834
+(lp2835
+(lp2836
+S'gabD'
+p2837
+aa(lp2838
+S'succinate-semialdehyde dehydrogenase I, NADP-dependent'
+p2839
+aS'succinate-semialdehyde dehydrogenase I'
+p2840
+aa(lp2841
+S'1.2.1.16'
+p2842
+aasS'b3426'
+p2843
+(lp2844
+(lp2845
+S'glpD'
+p2846
+aS'glyD'
+p2847
+aa(lp2848
+S'glycerol-3-phosphate dehydrogenase'
+p2849
+aS'sn-glycerol-3-phosphate dehydrogenase, aerobic, FAD/NAD(P)-binding'
+p2850
+aa(lp2851
+g1472
+aasS'b2297'
+p2852
+(lp2853
+(lp2854
+S'pta'
+p2855
+aa(lp2856
+g1350
+aa(lp2857
+S'2.3.1.8'
+p2858
+aasS'b2290'
+p2859
+(lp2860
+(lp2861
+S'alaA'
+p2862
+aS'yfbQ'
+p2863
+aa(lp2864
+S'aspartate/tyrosine/aromatic aminotransferase'
+p2865
+aS'predicted aminotransferase'
+p2866
+aS'valine-pyruvate aminotransferase 2'
+p2867
+aa(lp2868
+asS'b2523'
+p2869
+(lp2870
+(lp2871
+S'yfhI'
+p2872
+aS'pepB'
+p2873
+aa(lp2874
+S'aminopeptidase B'
+p2875
+aa(lp2876
+S'3.4.11.23'
+p2877
+aasS'b0507'
+p2878
+(lp2879
+(lp2880
+S'gcl'
+p2881
+aa(lp2882
+S'glyoxylate carboligase'
+p2883
+aa(lp2884
+S'4.1.1.47'
+p2885
+aasS'b3640'
+p2886
+(lp2887
+(lp2888
+S'dnaS'
+p2889
+aS'dut'
+p2890
+aS'sof'
+p2891
+aa(lp2892
+S'deoxyuridinetriphosphatase'
+p2893
+aS'deoxyuridine triphosphatase'
+p2894
+aa(lp2895
+S'3.6.1.23'
+p2896
+aasS'b4395'
+p2897
+(lp2898
+(lp2899
+S'gpmB'
+p2900
+aS'ytjC'
+p2901
+aa(lp2902
+S'phosphoglyceromutase 2, co-factor independent'
+p2903
+aS'phosphatase'
+p2904
+aS'putative phosphoglycerate mutase gpmB'
+p2905
+aa(lp2906
+asS'b0180'
+p2907
+(lp2908
+(lp2909
+S'sfhC'
+p2910
+aS'sefA'
+p2911
+aS'sabA'
+p2912
+aS'yaeA'
+p2913
+aS'fabZ'
+p2914
+aa(lp2915
+S'(3R)-hydroxymyristoyl-ACP dehydratase'
+p2916
+aS'(3R)-hydroxymyristol acyl carrier protein dehydratase'
+p2917
+aa(lp2918
+S'4.2.1.-'
+p2919
+aasS'b3288'
+p2920
+(lp2921
+(lp2922
+S'fmt'
+p2923
+aS'yhdD'
+p2924
+aa(lp2925
+S'methionyl-tRNA formyltransferase'
+p2926
+aS'10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase'
+p2927
+aS'10-formyltetrahydrofolate:L-methionyl-tRNA(fMet)N-formyltransferase'
+p2928
+aa(lp2929
+S'2.1.2.9'
+p2930
+aasS'b1525'
+p2931
+(lp2932
+(lp2933
+S'yneI'
+p2934
+aS'sad'
+p2935
+aa(lp2936
+S'predicted aldehyde dehydrogenase'
+p2937
+aS'putative succinate-semialdehyde dehydrogenase'
+p2938
+aS'succinate semialdehyde dehydrogenase, NAD(P)+-dependent'
+p2939
+aa(lp2940
+S'1.2.1.24'
+p2941
+aasS'b1524'
+p2942
+(lp2943
+(lp2944
+S'yneH'
+p2945
+aS'glsA2'
+p2946
+aS'glsB'
+p2947
+aa(lp2948
+g407
+aS'glutaminase 2'
+p2949
+aa(lp2950
+asS'b3588'
+p2951
+(lp2952
+(lp2953
+S'yiaX'
+p2954
+aS'aldB'
+p2955
+aa(lp2956
+S'aldehyde dehydrogenase'
+p2957
+aS'aldehyde dehydrogenase B'
+p2958
+aa(lp2959
+g929
+aasS'b0033'
+p2960
+(lp2961
+(lp2962
+S'carB'
+p2963
+ag1404
+ag1406
+aa(lp2964
+S'carbamoyl phosphate synthase large subunit'
+p2965
+aS'carbamoyl-phosphate synthase large subunit'
+p2966
+aa(lp2967
+g1413
+aasS'b1723'
+p2968
+(lp2969
+(lp2970
+S'pfkB'
+p2971
+aa(lp2972
+S'6-phosphofructokinase II'
+p2973
+ag577
+aa(lp2974
+g580
+aasS'b0237'
+p2975
+(lp2976
+(lp2977
+S'pepH'
+p2978
+aS'pepD'
+p2979
+aa(lp2980
+S'aminoacyl-histidine dipeptidase (peptidase D)'
+p2981
+aS'aminoacyl-histidine dipeptidase'
+p2982
+aa(lp2983
+S'1.5.1.38'
+p2984
+aasS'b3126'
+p2985
+(lp2986
+(lp2987
+S'garL'
+p2988
+aS'yhaF'
+p2989
+aa(lp2990
+S'alpha-dehydro-beta-deoxy-D-glucarate aldolase'
+p2991
+aa(lp2992
+S'4.1.2.20'
+p2993
+aasS'b4053'
+p2994
+(lp2995
+(lp2996
+S'alr'
+p2997
+aa(lp2998
+S'alanine racemase, biosynthetic, PLP-binding'
+p2999
+aS'alanine racemase 1, PLP-binding, biosynthetic'
+p3000
+ag2568
+aa(lp3001
+g2570
+aasS'b3939'
+p3002
+(lp3003
+(lp3004
+S'metB'
+p3005
+aS'met-1'
+p3006
+aa(lp3007
+S'cystathionine gamma-synthase'
+p3008
+aS'cystathionine gamma-synthase, PLP-dependent'
+p3009
+aa(lp3010
+S'2.5.1.48'
+p3011
+aasS'b3671'
+p3012
+(lp3013
+(lp3014
+S'ilvB'
+p3015
+aa(lp3016
+S'acetolactate synthase 2 large subunit'
+p3017
+aS'acetolactate synthase I, large subunit'
+p3018
+aS'acetolactate synthase catalytic subunit'
+p3019
+aa(lp3020
+g1294
+aasS'b3213'
+p3021
+(lp3022
+(lp3023
+S'gltD'
+p3024
+ag1267
+ag1268
+ag1269
+aa(lp3025
+S'glutamate synthase subunit beta'
+p3026
+aS'glutamate synthase, 4Fe-4S protein, small subunit'
+p3027
+aa(lp3028
+g1274
+aasS'b2040'
+p3029
+(lp3030
+(lp3031
+S'rfbD'
+p3032
+aS'rmlD'
+p3033
+aa(lp3034
+S'dTDP-4-dehydrorhamnose reductase'
+p3035
+aS'dTDP-4-dehydrorhamnose reductase subunit, NAD(P)-binding, of dTDP-L-rhamnose synthase'
+p3036
+aa(lp3037
+S'1.1.1.133'
+p3038
+aasS'b3132'
+p3039
+(lp3040
+(lp3041
+S'agaZ'
+p3042
+aS'yhaX'
+p3043
+aS'kbaZ'
+p3044
+aa(lp3045
+S'tagatose 6-phosphate aldolase 1, kbaZ subunit'
+p3046
+aa(lp3047
+g1453
+aasS'b1288'
+p3048
+(lp3049
+(lp3050
+S'qmeA'
+p3051
+aS'gts'
+p3052
+aS'fabI'
+p3053
+aS'envM'
+p3054
+aa(lp3055
+S'enoyl-(acyl carrier protein) reductase'
+p3056
+aS'enoyl-[acyl-carrier-protein] reductase, NADH-dependent'
+p3057
+aa(lp3058
+S'1.3.1.9'
+p3059
+aasS'b0839'
+p3060
+(lp3061
+(lp3062
+S'dacC'
+p3063
+aa(lp3064
+S'D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 6a)'
+p3065
+ag367
+aa(lp3066
+g369
+aasS'b3500'
+p3067
+(lp3068
+(lp3069
+S'gorA'
+p3070
+aS'gor'
+p3071
+aa(lp3072
+S'glutathione reductase'
+p3073
+aS'glutathione oxidoreductase'
+p3074
+aa(lp3075
+S'1.8.1.7'
+p3076
+aasS'b2323'
+p3077
+(lp3078
+(lp3079
+S'fabC'
+p3080
+aS'fabB'
+p3081
+aa(lp3082
+S'3-oxoacyl-[acyl-carrier-protein] synthase I'
+p3083
+ag813
+aa(lp3084
+g815
+aasS'b2436'
+p3085
+(lp3086
+(lp3087
+S'popB'
+p3088
+aS'sec'
+p3089
+aS'hemF'
+p3090
+aa(lp3091
+S'coproporphyrinogen III oxidase'
+p3092
+aa(lp3093
+S'1.3.3.3'
+p3094
+aasS'b4090'
+p3095
+(lp3096
+(lp3097
+S'alsI'
+p3098
+aS'alsB'
+p3099
+aS'yjcA'
+p3100
+aS'rpiB'
+p3101
+aa(lp3102
+S'ribose 5-phosphate isomerase B/allose 6-phosphate isomerase'
+p3103
+aS'ribose-5-phosphate isomerase B'
+p3104
+aa(lp3105
+g2812
+aasS'b3526'
+p3106
+(lp3107
+(lp3108
+S'yhjI'
+p3109
+aS'kdgK'
+p3110
+aa(lp3111
+S'ketodeoxygluconokinase'
+p3112
+aS'2-dehydro-3-deoxygluconokinase'
+p3113
+aa(lp3114
+S'2.7.1.45'
+p3115
+aasS'b2203'
+p3116
+(lp3117
+(lp3118
+S'napB'
+p3119
+aS'yejY'
+p3120
+aa(lp3121
+S'nitrate reductase, small, cytochrome C550 subunit, periplasmic'
+p3122
+ag2192
+aa(lp3123
+asS'b2202'
+p3124
+(lp3125
+(lp3126
+S'yejX'
+p3127
+aS'napC'
+p3128
+aa(lp3129
+S'cytochrome c-type protein napC'
+p3130
+aS'nitrate reductase, cytochrome c-type,periplasmic'
+p3131
+aS'quinol dehydrogenase, electron source for NapAB'
+p3132
+aa(lp3133
+asS'b1119'
+p3134
+(lp3135
+(lp3136
+S'nagK'
+p3137
+aS'ycfX'
+p3138
+aa(lp3139
+S'predicted DNA-binding transcriptional regulator'
+p3140
+aS'N-acetyl-D-glucosamine kinase'
+p3141
+ag396
+aa(lp3142
+S'2.7.1.59'
+p3143
+aasS'b0459'
+p3144
+(lp3145
+(lp3146
+S'maa'
+p3147
+aS'ylaD'
+p3148
+aa(lp3149
+S'maltose O-acetyltransferase'
+p3150
+aa(lp3151
+S'2.3.1.79'
+p3152
+aasS'b2206'
+p3153
+(lp3154
+(lp3155
+S'yojD'
+p3156
+aS'yojE'
+p3157
+aS'yojC'
+p3158
+aS'napA'
+p3159
+aa(lp3160
+S'nitrate reductase catalytic subunit'
+p3161
+aS'nitrate reductase, periplasmic, large subunit'
+p3162
+aa(lp3163
+g697
+aasS'b2205'
+p3164
+(lp3165
+(lp3166
+S'napG'
+p3167
+aS'yojB'
+p3168
+aS'yojA'
+p3169
+aa(lp3170
+S'ferredoxin-type protein'
+p3171
+aS'ferredoxin-type protein napG precursor'
+p3172
+aS'ferredoxin-type protein essential for electron transfer from ubiquinol to periplasmic nitrate reductase (NapAB)'
+p3173
+aa(lp3174
+asS'b2204'
+p3175
+(lp3176
+(lp3177
+S'yejZ'
+p3178
+aS'napH'
+p3179
+aa(lp3180
+S'quinol dehydrogenase membrane component'
+p3181
+ag3171
+ag3173
+aa(lp3182
+as.

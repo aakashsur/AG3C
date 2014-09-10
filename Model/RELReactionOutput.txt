@@ -21,12 +21,12 @@ GLXtmp	glx[e] --> glx[c]	Unknown	addition
 URATEtmp	urate[e] --> urate[c]	Unknown	addition
 NACGLUtmp	acglu[e] --> acglu[c]	Unknown	addition
 DMAN1Ptmp	man1p[e] --> man1p[c]	Unknown	addition
-EX_arab-D(e)	[e] : arab-D <==>	Unknown	addition
-EX_4hpa(e)	[e] : 4hpa <==>	Unknown	addition
-EX_glx(e)	[e] : glx <==>	Unknown	addition
-EX_urate(e)	[e] : urate <==>	Unknown	addition
-EX_man1p(e)	[e] : man1p <==>	Unknown	addition
-EX_acglu(e)	[e] : acglu <==>	Unknown	addition
+EX_arab_D_LPAREN_e_RPAREN	[e] : arab-D <==>	Unknown	addition
+EX_4hpa_LPAREN_e_RPAREN	[e] : 4hpa <==>	Unknown	addition
+EX_glx_LPAREN_e_RPAREN	[e] : glx <==>	Unknown	addition
+EX_urate_LPAREN_e_RPAREN	[e] : urate <==>	Unknown	addition
+EX_man1p_LPAREN_e_RPAREN	[e] : man1p <==>	Unknown	addition
+EX_acglu_LPAREN_e_RPAREN	[e] : acglu <==>	Unknown	addition
 AAMYL	[c] : 14glucan --> malthx 	b1927	deletion
 ACGAMK	[c] : acgam + atp --> acgam6p + adp + h 	b1119	deletion
 ADNt2rpp	adn[p] + h[p] <==> adn[c] + h[c] 	b2406	deletion
