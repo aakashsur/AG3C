@@ -218,4 +218,6 @@ print "writing"
 write_sbml_model(model, "REL.xml")
 
 model = read_sbml_model("REL.xml")
+model.optimize()
+print "Growth Rate: %.15f"%(model.solution.f)
 
