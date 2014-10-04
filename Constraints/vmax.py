@@ -41,8 +41,8 @@ f.close()
 geneCounts = {}
 #In the format {b-numbers: Average Count}
 
-timepoint = 1
-timepoint -= 1
+timepoint = 6
+timepoint -= 1 #Puts it into 0-index format.
 
 for bGene in rosettaStone:
 	proteinID = rosettaStone[bGene]
@@ -129,11 +129,11 @@ for reaction in enzymeCounts:
 	count = enzymeCounts[reaction]
 	thisKCat = float(kCat[reaction])
 
-	avagadro = 6.02214129e+23
-	weight = 2.58 * (10e-13)
+	avagadro = 6.02214129**23
+	weight = 2.58 * (10**-13)
 	cellsPerGram = 1/weight
 
-	bound = count * (1/avagadro) * (10e+3) * thisKCat * cellsPerGram * (60**2)
+	bound = count * (1/avagadro) * (10**3) * thisKCat * cellsPerGram * (60**2)
 
 	vmax[reaction] = bound
 
