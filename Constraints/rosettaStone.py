@@ -1,3 +1,15 @@
+"""
+	This script creates a dictionary in the format {b-number:
+	protein YP_accession number. For all the b-numbers we need
+	to map, this program tries to assign protein accesion numbers
+	to them. While this could have been done in the last program, 
+	this script ballooned because occasionally a b-number will 
+	be assigned more than one protein. To handle these, this
+	program asks Entrez information about the protein, and then
+	presents this to the user for the user to decide what to do 
+	in a final manual curation step.
+"""
+
 import cPickle
 import numpy
 from Bio import Entrez

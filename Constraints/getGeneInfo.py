@@ -1,3 +1,12 @@
+"""
+	We need to assign protein counts data, but all we have are 
+	the b-number associated with each reaction. To connect the
+	dots, we ask Entrez what gene symbols are associated with 
+	the b-number and what the protein names of those gene symbols 
+	are. The next script, rosettaStone.py will ask Entrez questions 
+	about the protein accession number and use the information 
+	generated from this program to assign proteins to b-numbers.
+"""
 from Bio import Entrez
 import time
 import re
