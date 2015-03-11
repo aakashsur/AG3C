@@ -1,7 +1,7 @@
 """
 	The last script in the sequence. Adds the bounds specified
-	in the pickle files in the folder /Vmax. Output will two text
-	file which have the flux ratios for the specified reactions
+	in the pickle files in the folder /Vmax. Output two text
+	files which have the flux ratios for the specified reactions
 	over all the time points, one for the unconstrained fluxes 
 	one for the constrained fluxes. 
 """
@@ -86,7 +86,6 @@ pyk = solution['PYK']
 PYRfromMAL = (me1+me2)/(me1+me2+pyk+eda)
 thisLine = "PYR from MAL\t" + str(PYRfromMAL)+ "\n"
 f.write(thisLine)
-
 f.close()
 
 lines = ["PEP from OAA\t","E4P through TK\t","OAA from PEP\t","PEP through TK\t","SER from GLY\t","GLY from SER\t", "PYR from MAL\t"]
@@ -136,7 +135,7 @@ for timepoint in range(0,9):
 
 	for reaction in vMax:
 		if reaction == "GMPS2" or reaction == 'PRFGS' or reaction == 'ADSL2r':
-			continue
+			# pass
 		upperBound = vMax[reaction]
 		try:
 			rxn = model.reactions.get_by_id(reaction)
