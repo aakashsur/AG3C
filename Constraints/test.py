@@ -1,17 +1,16 @@
-import pickle
-import numpy as np
 
-# Pickle containing all the protein counts information. 
-# In the format [[Average Counts], [Standard Deviations], [YP_number]]
-f = open("prot_data_format_apex.pickle", "rb")
-data = pickle.load(f)
-f.close()
+inFile = open('RosettaStone.txt')
 
-count = 0
-for item in data[0]:
-	if np.isnan(item[:7]).any():
-		count += 1
+inFile.readline()
+out = {}
 
-print (len (data[0]))
-print (count)
+for line in inFile:
+	line = line.strip().split('\t')
+	gene = line[2].split(',')
+	if gene[0] == 'None':
+		continue
+	protein = line[0]
+	for item in gene:
+		out[item] = protein
 
+print out

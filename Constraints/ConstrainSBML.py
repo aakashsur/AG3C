@@ -9,7 +9,7 @@
 import pickle
 from cobra.io import read_sbml_model
 from cobra.core import Model as md
-from cobra.flux_analysis.parsimonious import optimize_minimal_flux
+# from cobra.flux_analysis.parsimonious import optimize_minimal_flux
 import os
 
 def changeDefaultBounds (model):
@@ -23,9 +23,9 @@ def changeDefaultBounds (model):
 	return model
 
 # Equations for flux ratios.
-def getFluxRatios (solution):
+def getFluxRatios (model):
 
-	solution = solution.x_dict
+	solution = model.solution.x_dict
 
 	try:
 		ppck = solution['PPCK']
@@ -117,8 +117,8 @@ def constrainModel (model, percent, size, info):
 
 		print ('Could not load {} reactions.').format(count)
 
-		solution = optimize_minimal_flux(model)
-		fluxRatios = getFluxRatios (solution)
+		model.optimize()
+		fluxRatios = getFluxRatios (model)
 		fluxRatiosList.append (fluxRatios)
 		
 	return (fluxRatiosList)
@@ -149,13 +149,12 @@ def main ():
 	# Read and build SBML REL model. 
 	model = read_sbml_model ("REL.xml")
 	model = changeDefaultBounds (model)
-	solution = optimize_minimal_flux(model)
-
+	model.optimize()
 	# Print growth rate. 
-	print (('Growth Rate: {}').format(solution.f))
+	print (('Growth Rate: {}').format(model.solution.f))
 
 	# Get the normal flux ratios of the unconstrained model. 
-	defaultFluxRatios = getFluxRatios (solution)
+	defaultFluxRatios = getFluxRatios (model)
 	fluxRatiosList = []
 	for i in range (9):
 		fluxRatiosList.append(defaultFluxRatios)
@@ -163,25 +162,25 @@ def main ():
 	writeFluxRatios (fluxRatiosList, 'Results/RegularFluxes.txt')
 
 	# Iterate through each confidence level.
-	confidence = [90]
+	confidence = [90,95,99]
 	# Iterate through different list sizes.
-	limit = [50]
+	limit = [50,100,200,'Full']
 	# Iterate through each timepoint.
 	timepoint = range (9)
 
 	for percent in confidence:
 		for size in limit:
 
-			copyModel = md.copy(model)
-
-			fluxRatiosList = constrainModel (copyModel, percent, size, 'RSD')
-			fileName = ('Results/{}Confidence/RSD/Size{}.txt').format(percent, size)
-			writeFluxRatios (fluxRatiosList, fileName)
-
 			copyModel2 = md.copy(model)
 
 			fluxRatiosList = constrainModel (copyModel2, percent, size, 'Mean')
 			fileName = ('Results/{}Confidence/Mean/Size{}.txt').format(percent, size)
+			writeFluxRatios (fluxRatiosList, fileName)
+
+			copyModel = md.copy(model)
+
+			fluxRatiosList = constrainModel (copyModel, percent, size, 'RSD')
+			fileName = ('Results/{}Confidence/RSD/Size{}.txt').format(percent, size)
 			writeFluxRatios (fluxRatiosList, fileName)
 
 main ()

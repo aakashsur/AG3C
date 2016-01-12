@@ -13,7 +13,7 @@ def getGeneInfo (geneID):
 
 	# If there are multiple results throw an error, otherwise set the ID. 
 	if len(record['IdList']) > 1:
-		print (('You better take a look at this doc! Its {}').format(geneID))
+		print (('More than one record for: {}').format(geneID))
 		return
 	else:
 		ID = (record["IdList"][0])
@@ -28,9 +28,9 @@ def getGeneInfo (geneID):
 	if len (genes) == 1:
 		return genes[0]
 	elif len (genes) > 1:
-		print ('We caught something strange for {}...').format(geneID)
+		print ('More than one b-number for: {}').format(geneID)
 	else:
-		print ('{} does not have a b-number.').format(geneID)
+		print ('Does not have a b-number: {}').format(geneID)
 
 def main ():
 
@@ -68,8 +68,4 @@ def main ():
 	outFile.close()
 
 main ()
-
-
-
-
 

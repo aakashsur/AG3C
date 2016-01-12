@@ -59,6 +59,22 @@ def getInfo ():
 
 	return geneAssociations, kCat
 
+def getRosettaStone (inFile):
+
+	inFile.readline()
+	rosettaStone = {}
+
+	for line in inFile:
+		line = line.strip().split('\t')
+		gene = line[2].split(',')
+		if gene[0] == 'None':
+			continue
+		protein = line[0]
+		for item in gene:
+			rosettaStone[item] = protein
+
+	return rosettaStone
+
 """
 	Open the protein list for each confidence level at each timepoint. Since the pickle
 	files are in the form of an ascending sorted list of tuples, we need to reverse the 
@@ -236,8 +252,8 @@ def main ():
 	   counts and standard deviations after the APEX pipeline.
 	"""
 
-	inFile = open("RosettaStone.pickle", "rb")
-	rosettaStone = pickle.load(inFile)
+	inFile = open('RosettaStone.txt')
+	rosettaStone = getRosettaStone(inFile)
 	inFile.close()
 
 	geneAssociations, kCat = getInfo()

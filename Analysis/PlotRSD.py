@@ -8,14 +8,13 @@ for percent in [90,95,99]:
 
 	# Iterate through each timepoint. 
 	for time in xrange (9):
-		print (time)
 
-		fileName = 'ProteinList/'+ str(percent) + 'Confidence/' + 'MeanCountTime' + str(time+1) + '.pickle'
+		fileName = '../Constraints/ProteinList/'+ str(percent) + 'Confidence/' + 'Mean/Time' + str(time+1) + '.pickle'
 		f = open(fileName, 'rb')
 		meanCounts = cPickle.load(f)
 		f.close()
 
-		fileName = 'ProteinList/'+ str(percent) + 'Confidence/' + 'RSDTime' + str(time+1) + '.pickle'
+		fileName = '../Constraints/ProteinList/'+ str(percent) + 'Confidence/' + 'RSD/Time' + str(time+1) + '.pickle'
 		f = open(fileName, 'rb')
 		rsd = cPickle.load(f)
 		f.close()
@@ -33,8 +32,8 @@ for percent in [90,95,99]:
 
 		print ('There are %i proteins in the %i timepoint.') % (len(meanCounts), time + 1)
 
-		# plt.scatter(x, y)
-		# plt.show()
+		plt.scatter(x, y)
+		plt.show()
 
 
 
